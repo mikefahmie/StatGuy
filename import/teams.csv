@@ -1,0 +1,1510 @@
+id,team,mascot,nickname,abbreviation,display_name,primary_color,secondary_color
+1,Abilene Christian,Wildcats,Abilene Chrstn,ACU,Abilene Christian Wildcats,592d82,b1b3b3
+2,Air Force,Falcons,Air Force,AFA,Air Force Falcons,004a7b,ffffff
+3,Akron,Zips,Akron,AKR,Akron Zips,00285e,84754e
+4,Alabama A&M,Bulldogs,Alabama A&M,AAMU,Alabama A&M Bulldogs,790000,ffffff
+5,Alabama,Crimson Tide,Alabama,ALA,Alabama Crimson Tide,9e1632,ffffff
+6,Alabama State,Hornets,Alabama St,ALST,Alabama State Hornets,e9a900,0a0a0a
+7,Alcorn State,Braves,Alcorn St,ALCN,Alcorn State Braves,4b0058,46166a
+8,American University,Eagles,American,AMER,American University Eagles,c41130,c8102e
+9,App State,Mountaineers,App State,APP,App State Mountaineers,000000,ffcd00
+10,Arizona State,Sun Devils,Arizona St,ASU,Arizona State Sun Devils,8e0c3a,ffc72c
+11,Arizona,Wildcats,Arizona,ARIZ,Arizona Wildcats,0c234b,ab0520
+12,Arkansas,Razorbacks,Arkansas,ARK,Arkansas Razorbacks,a41f35,ffffff
+13,Arkansas State,Red Wolves,Arkansas St,ARST,Arkansas State Red Wolves,e81018,000000
+14,Arkansas-Pine Bluff,Golden Lions,AR-Pine Bluff,UAPB,Arkansas-Pine Bluff Golden Lions,e0aa0f,eaaa00
+15,Army,Black Knights,Army,ARMY,Army Black Knights,ce9c00,231f20
+16,Auburn,Tigers,Auburn,AUB,Auburn Tigers,002b5c,f26522
+17,Austin Peay,Governors,Austin Peay,APSU,Austin Peay Governors,8e0b0b,
+18,BYU,Cougars,BYU,BYU,BYU Cougars,003da5,ffffff
+19,Ball State,Cardinals,Ball State,BALL,Ball State Cardinals,DA0000,ffffff
+20,Baylor,Bears,Baylor,BAY,Baylor Bears,154734,ffb81c
+21,Bellarmine,Knights,Bellarmine,BELL,Bellarmine Knights,000000,
+22,Belmont,Bruins,Belmont,BEL,Belmont Bruins,182142,c9262d
+23,Bethune-Cookman,Wildcats,Bethune,BCU,Bethune-Cookman Wildcats,7b1831,e9aa12
+24,Binghamton,Bearcats,Binghamton,BING,Binghamton Bearcats,00614A,f0f0f0
+25,Boise State,Broncos,Boise St,BOIS,Boise State Broncos,0033a0,fa4616
+26,Boston College,Eagles,Boston College,BC,Boston College Eagles,8c2232,dbcca6
+27,Boston University,Terriers,Boston U,BU,Boston University Terriers,cc0000,ffffff
+28,Bowling Green,Falcons,Bowling Green,BGSU,Bowling Green Falcons,2b1000,492000
+29,Bradley,Braves,Bradley,BRAD,Bradley Braves,b70002,c0c0c0
+30,Brown,Bears,Brown,BRWN,Brown Bears,411e09,949300
+31,Bryant,Bulldogs,Bryant,BRY,Bryant Bulldogs,000000,9f8343
+32,Bucknell,Bison,Bucknell,BUCK,Bucknell Bison,000060,00316e
+33,Buffalo,Bulls,Buffalo,BUF,Buffalo Bulls,041A9B,ebebeb
+34,Butler,Bulldogs,Butler,BUT,Butler Bulldogs,0d1361,00a3e0
+35,Cal Poly,Mustangs,Cal Poly,CP,Cal Poly Mustangs,1E4D2B,eed897
+36,Cal State Bakersfield,Roadrunners,Bakersfield,CSUB,Cal State Bakersfield Roadrunners,003BAB,
+37,Cal State Fullerton,Titans,Fullerton,CSUF,Cal State Fullerton Titans,003767,ff8300
+38,Cal State Northridge,Matadors,CSU Northridge,CSUN,Cal State Northridge Matadors,b50000,
+39,California Baptist,Lancers,CA Baptist,CBU,California Baptist Lancers,000080,
+40,California,Golden Bears,California,CAL,California Golden Bears,031522,ffc423
+41,Campbell,Fighting Camels,Campbell,CAM,Campbell Fighting Camels,000000,
+42,Canisius,Golden Griffins,Canisius,CAN,Canisius Golden Griffins,004a81,dda50f
+43,Central Arkansas,Bears,C Arkansas,CARK,Central Arkansas Bears,a7a9ac,8e959a
+44,Central Connecticut,Blue Devils,C Connecticut,CCSU,Central Connecticut Blue Devils,1B49A2,d1d5d8
+45,Central Michigan,Chippewas,C Michigan,CMU,Central Michigan Chippewas,6a0032,ffc82e
+46,Charleston,Cougars,Charleston,COFC,Charleston Cougars,7a2531,9e8959
+47,Charleston Southern,Buccaneers,Charleston So,CHSO,Charleston Southern Buccaneers,2e3192,ded090
+48,Charlotte,49ers,Charlotte,CLT,Charlotte 49ers,ffffff,cfab7a
+49,Chattanooga,Mocs,Chattanooga,UTC,Chattanooga Mocs,00386b,dca71d
+50,Chicago State,Cougars,Chicago St,CHST,Chicago State Cougars,006700,
+51,Cincinnati,Bearcats,Cincinnati,CIN,Cincinnati Bearcats,000000,717073
+52,Clemson,Tigers,Clemson,CLEM,Clemson Tigers,f56600,522d80
+53,Cleveland State,Vikings,Cleveland St,CLE,Cleveland State Vikings,006633,231f20
+54,Coastal Carolina,Chanticleers,Coastal Car,CCU,Coastal Carolina Chanticleers,007073,876447
+55,Colgate,Raiders,Colgate,COLG,Colgate Raiders,821019,ffffff
+56,Colorado,Buffaloes,Colorado,COLO,Colorado Buffaloes,000000,cfb87c
+57,Colorado State,Rams,Colorado St,CSU,Colorado State Rams,1e4d2b,c8c372
+58,Columbia,Lions,Columbia,COLU,Columbia Lions,174785,004b85
+59,Coppin State,Eagles,Coppin St,COPP,Coppin State Eagles,2e3192,ffd204
+60,Cornell,Big Red,Cornell,COR,Cornell Big Red,d60027,101010
+61,Creighton,Bluejays,Creighton,CREI,Creighton Bluejays,005ca9,6cadde
+62,Dartmouth,Big Green,Dartmouth,DART,Dartmouth Big Green,005730,000000
+63,Davidson,Wildcats,Davidson,DAV,Davidson Wildcats,000000,e51837
+64,Dayton,Flyers,Dayton,DAY,Dayton Flyers,004B8D,ffffff
+65,DePaul,Blue Demons,DePaul,DEP,DePaul Blue Demons,2d649c,ce1125
+66,Delaware,Blue Hens,Delaware,DEL,Delaware Blue Hens,033594,e8ce31
+67,Delaware State,Hornets,Delaware St,DSU,Delaware State Hornets,FF3630,009cdd
+68,Denver,Pioneers,Denver,DEN,Denver Pioneers,98002e,a8996e
+69,Detroit Mercy,Titans,Detroit Mercy,DETM,Detroit Mercy Titans,165b9e,d31733
+70,Drake,Bulldogs,Drake,DRKE,Drake Bulldogs,005596,bec0c2
+71,Drexel,Dragons,Drexel,DREX,Drexel Dragons,020260,ffd65a
+72,Duke,Blue Devils,Duke,DUKE,Duke Blue Devils,013088,ffffff
+73,Duquesne,Dukes,Duquesne,DUQ,Duquesne Dukes,002D62,b90b2e
+74,East Carolina,Pirates,East Carolina,ECU,East Carolina Pirates,4b1869,f0907b
+75,East Tennessee State,Buccaneers,ETSU,ETSU,East Tennessee State Buccaneers,002d61,ffc423
+76,East Texas A&M,Lions,East Texas A&M,ETAM,East Texas A&M Lions,000000,
+77,Eastern Illinois,Panthers,E Illinois,EIU,Eastern Illinois Panthers,000000,bebab9
+78,Eastern Kentucky,Colonels,E Kentucky,EKU,Eastern Kentucky Colonels,660819,f0f0f0
+79,Eastern Michigan,Eagles,E Michigan,EMU,Eastern Michigan Eagles,00331b,f0f0f0
+80,Eastern Washington,Eagles,E Washington,EWU,Eastern Washington Eagles,a10022,abb4bc
+81,Elon,Phoenix,Elon,ELON,Elon Phoenix,020303,b59a57
+82,Evansville,Purple Aces,Evansville,EVAN,Evansville Purple Aces,663399,ef6f00
+83,Fairfield,Stags,Fairfield,FAIR,Fairfield Stags,000000,ebebeb
+84,Fairleigh Dickinson,Knights,Fair Dickinson,FDU,Fairleigh Dickinson Knights,72293c,28334a
+85,Florida A&M,Rattlers,Florida A&M,FAMU,Florida A&M Rattlers,F89728,00843d
+86,Florida Atlantic,Owls,FAU,FAU,Florida Atlantic Owls,00447c,d31245
+87,Florida,Gators,Florida,FLA,Florida Gators,0021a5,fa4616
+88,Florida Gulf Coast,Eagles,FGCU,FGCU,Florida Gulf Coast Eagles,00885a,076c3b
+89,Florida International,Panthers,FIU,FIU,Florida International Panthers,091731,c5960c
+90,Florida State,Seminoles,Florida St,FSU,Florida State Seminoles,782f40,ceb888
+91,Fordham,Rams,Fordham,FOR,Fordham Rams,830032,909090
+92,Fresno State,Bulldogs,Fresno St,FRES,Fresno State Bulldogs,c41230,13284c
+93,Furman,Paladins,Furman,FUR,Furman Paladins,582c83,ffffff
+94,Gardner-Webb,Runnin' Bulldogs,Gardner-Webb,GWEB,Gardner-Webb Runnin' Bulldogs,c12535,909090
+95,George Mason,Patriots,George Mason,GMU,George Mason Patriots,016600,ecb010
+96,George Washington,Revolutionaries,G Washington,GW,George Washington Revolutionaries,002843,e8d2a1
+97,Georgetown,Hoyas,Georgetown,GTWN,Georgetown Hoyas,110E42,001c58
+98,Georgia,Bulldogs,Georgia,UGA,Georgia Bulldogs,ba0c2f,ffffff
+99,Georgia Southern,Eagles,GA Southern,GASO,Georgia Southern Eagles,003775,f0f0f0
+100,Georgia State,Panthers,Georgia St,GAST,Georgia State Panthers,1e539a,ebebeb
+101,Georgia Tech,Yellow Jackets,Georgia Tech,GT,Georgia Tech Yellow Jackets,003057,b3a369
+102,Gonzaga,Bulldogs,Gonzaga,GONZ,Gonzaga Bulldogs,041e42,c8102e
+103,Grambling,Tigers,Grambling,GRAM,Grambling Tigers,ee8601,ffd10a
+104,Grand Canyon,Lopes,Grand Canyon,GCU,Grand Canyon Lopes,522398,ffffff
+105,Green Bay,Phoenix,Green Bay,GB,Green Bay Phoenix,006633,ffffff
+106,Hampton,Pirates,Hampton,HAMP,Hampton Pirates,0067AC,
+107,Harvard,Crimson,Harvard,HARV,Harvard Crimson,990000,dbdbdb
+108,Hawai'i,Rainbow Warriors,Hawai'i,HAW,Hawai'i Rainbow Warriors,003420,ffffff
+109,High Point,Panthers,High Point,HPU,High Point Panthers,b0b7bc,ebebeb
+110,Hofstra,Pride,Hofstra,HOF,Hofstra Pride,00337c,f6c934
+111,Holy Cross,Crusaders,Holy Cross,HC,Holy Cross Crusaders,0a0a0a,080808
+112,Houston Christian,Huskies,Hou Christian,HCU,Houston Christian Huskies,00539c,
+113,Houston,Cougars,Houston,HOU,Houston Cougars,c92a39,ffffff
+114,Howard,Bison,Howard,HOW,Howard Bison,003a63,e51937
+115,IU Indianapolis,Jaguars,IU Indy,IUIN,IU Indianapolis Jaguars,A81F30,d59f0f
+116,Idaho State,Bengals,Idaho St,IDST,Idaho State Bengals,ef8c00,e9a126
+117,Idaho,Vandals,Idaho,IDHO,Idaho Vandals,000000,8c6e4a
+118,Illinois,Fighting Illini,Illinois,ILL,Illinois Fighting Illini,ff5f05,13294b
+119,Illinois State,Redbirds,Illinois St,ILST,Illinois State Redbirds,CE1126,ffe716
+120,Incarnate Word,Cardinals,Incarnate Word,UIW,Incarnate Word Cardinals,000000,080808
+121,Indiana,Hoosiers,Indiana,IU,Indiana Hoosiers,990000,edebeb
+122,Indiana State,Sycamores,Indiana St,INST,Indiana State Sycamores,00669a,f0f0f0
+123,Iona,Gaels,Iona,IONA,Iona Gaels,6f2c3e,f0ab00
+124,Iowa,Hawkeyes,Iowa,IOWA,Iowa Hawkeyes,000000,fcd116
+125,Iowa State,Cyclones,Iowa State,ISU,Iowa State Cyclones,822433,fdca2f
+126,Jackson State,Tigers,Jackson St,JKST,Jackson State Tigers,123297,b5b7ba
+127,Jacksonville,Dolphins,Jacksonville,JAX,Jacksonville Dolphins,00523e,
+128,Jacksonville State,Gamecocks,Jax State,JVST,Jacksonville State Gamecocks,b50500,b5b7ba
+129,James Madison,Dukes,James Madison,JMU,James Madison Dukes,450084,b5a068
+130,Kansas City,Roos,Kansas City,KC,Kansas City Roos,004b87,ffc72c
+131,Kansas,Jayhawks,Kansas,KU,Kansas Jayhawks,0051ba,e8000d
+132,Kansas State,Wildcats,Kansas St,KSU,Kansas State Wildcats,3c0969,e2e3e4
+133,Kennesaw State,Owls,Kennesaw St,KENN,Kennesaw State Owls,fdbb30,000000
+134,Kent State,Golden Flashes,Kent State,KENT,Kent State Golden Flashes,003976,efab00
+135,Kentucky,Wildcats,Kentucky,UK,Kentucky Wildcats,0033a0,ffffff
+136,LSU,Tigers,LSU,LSU,LSU Tigers,461d7c,fdd023
+137,La Salle,Explorers,La Salle,LAS,La Salle Explorers,003356,ffce00
+138,Lafayette,Leopards,Lafayette,LAF,Lafayette Leopards,790000,a59474
+139,Lamar,Cardinals,Lamar,LAM,Lamar Cardinals,000000,ebebeb
+140,Le Moyne,Dolphins,Le Moyne,LEM,Le Moyne Dolphins,,
+141,Lehigh,Mountain Hawks,Lehigh,LEH,Lehigh Mountain Hawks,6c2b2a,b69e70
+142,Liberty,Flames,Liberty,LIB,Liberty Flames,071740,a61f21
+143,Lipscomb,Bisons,Lipscomb,LIP,Lipscomb Bisons,20366C,f6b734
+144,Little Rock,Trojans,Little Rock,LR,Little Rock Trojans,AD0000,898d8f
+145,Long Beach State,Beach,Long Beach St,LBSU,Long Beach State Beach,000000,f1f2f3
+146,Long Island University,Sharks,Long Island,LIU,Long Island University Sharks,50c9f7,ffbf00
+147,Longwood,Lancers,Longwood,LONG,Longwood Lancers,003273,9ea2a3
+148,Louisiana,Ragin' Cajuns,Louisiana,UL,Louisiana Ragin' Cajuns,ce181e,ffffff
+149,Louisiana Tech,Bulldogs,Louisiana Tech,LT,Louisiana Tech Bulldogs,002d65,d3313a
+150,Louisville,Cardinals,Louisville,LOU,Louisville Cardinals,c9001f,000000
+151,Loyola Chicago,Ramblers,Loyola Chicago,LUC,Loyola Chicago Ramblers,9d1244,
+152,Loyola Maryland,Greyhounds,Loyola MD,L-MD,Loyola Maryland Greyhounds,76a7a0,c9cbca
+153,Loyola Marymount,Lions,LMU,LMU,Loyola Marymount Lions,880029,00345b
+154,Maine,Black Bears,Maine,ME,Maine Black Bears,127dbe,
+155,Manhattan,Jaspers,Manhattan,MAN,Manhattan Jaspers,4f8537,b5b7ba
+156,Marist,Red Foxes,Marist,MRST,Marist Red Foxes,e53730,f0f0f0
+157,Marquette,Golden Eagles,Marquette,MARQ,Marquette Golden Eagles,003366,ffcc00
+158,Marshall,Thundering Herd,Marshall,MRSH,Marshall Thundering Herd,00ae42,be854c
+159,Maryland Eastern Shore,Hawks,MD Eastern,UMES,Maryland Eastern Shore Hawks,5c2301,b5b7ba
+160,Maryland,Terrapins,Maryland,MD,Maryland Terrapins,D5002B,ffcd00
+161,Massachusetts,Minutemen,UMass,MASS,Massachusetts Minutemen,880007,
+162,McNeese,Cowboys,McNeese,MCN,McNeese Cowboys,00529C,
+163,Memphis,Tigers,Memphis,MEM,Memphis Tigers,004991,8e908f
+164,Mercer,Bears,Mercer,MER,Mercer Bears,ff7f29,080808
+165,Mercyhurst,Lakers,Mercyhurst,MERC,Mercyhurst Lakers,000000,
+166,Merrimack,Warriors,Merrimack,MRMK,Merrimack Warriors,2f4f93,e8c535
+167,Miami (OH),RedHawks,Miami OH,M-OH,Miami (OH) RedHawks,a4000c,f0f0f0
+168,Miami,Hurricanes,Miami,MIA,Miami Hurricanes,005030,f47321
+169,Michigan State,Spartans,Michigan St,MSU,Michigan State Spartans,18453b,ffffff
+170,Michigan,Wolverines,Michigan,MICH,Michigan Wolverines,00274c,ffcb05
+171,Middle Tennessee,Blue Raiders,MTSU,MTSU,Middle Tennessee Blue Raiders,006db6,ffffff
+172,Milwaukee,Panthers,Milwaukee,MILW,Milwaukee Panthers,000000,ffc20e
+173,Minnesota,Golden Gophers,Minnesota,MINN,Minnesota Golden Gophers,5e0a2f,fab41c
+174,Mississippi State,Bulldogs,Mississippi St,MSST,Mississippi State Bulldogs,5d1725,c1c6c8
+175,Mississippi Valley State,Delta Devils,Miss Valley St,MVSU,Mississippi Valley State Delta Devils,005328,cf2d34
+176,Missouri State,Bears,Missouri St,MOST,Missouri State Bears,5F0000,e8e8e8
+177,Missouri,Tigers,Missouri,MIZ,Missouri Tigers,f1b82d,000000
+178,Monmouth,Hawks,Monmouth,MONM,Monmouth Hawks,051844,
+179,Montana,Grizzlies,Montana,MONT,Montana Grizzlies,751D4A,666666
+180,Montana State,Bobcats,Montana St,MTST,Montana State Bobcats,00205c,bc955c
+181,Morehead State,Eagles,Morehead St,MORE,Morehead State Eagles,094FA3,fed91a
+182,Morgan State,Bears,Morgan St,MORG,Morgan State Bears,014786,f47937
+183,Mount St. Mary's,Mountaineers,Mount St Marys,MSM,Mount St. Mary's Mountaineers,005596,ebebeb
+184,Murray State,Racers,Murray St,MUR,Murray State Racers,002148,000e00
+185,NC State,Wolfpack,NC State,NCSU,NC State Wolfpack,cc0000,ffffff
+186,NJIT,Highlanders,NJIT,NJIT,NJIT Highlanders,EE3024,df3e2e
+187,Navy,Midshipmen,Navy,NAVY,Navy Midshipmen,00225b,b5a67c
+188,Nebraska,Cornhuskers,Nebraska,NEB,Nebraska Cornhuskers,d00000,ffffff
+189,Nevada,Wolf Pack,Nevada,NEV,Nevada Wolf Pack,002d62,ffffff
+190,New Hampshire,Wildcats,New Hampshire,UNH,New Hampshire Wildcats,004990,c3c4c6
+191,New Mexico,Lobos,New Mexico,UNM,New Mexico Lobos,000000,231f20
+192,New Mexico State,Aggies,New Mexico St,NMSU,New Mexico State Aggies,891216,000000
+193,New Orleans,Privateers,New Orleans,UNO,New Orleans Privateers,005da6,a2a9ae
+194,Niagara,Purple Eagles,Niagara,NIA,Niagara Purple Eagles,69207E,f0f0f0
+195,Nicholls,Colonels,Nicholls,NICH,Nicholls Colonels,C41230,f0f0f0
+196,Norfolk State,Spartans,Norfolk St,NORF,Norfolk State Spartans,0c8968,fdb813
+197,North Alabama,Lions,North Alabama,UNA,North Alabama Lions,663399,
+198,North Carolina A&T,Aggies,NC A&T,NCAT,North Carolina A&T Aggies,0505aa,004684
+199,North Carolina Central,Eagles,NC Central,NCCU,North Carolina Central Eagles,880023,c2c3c0
+200,North Carolina,Tar Heels,North Carolina,UNC,North Carolina Tar Heels,7bafd4,13294b
+201,North Dakota,Fighting Hawks,North Dakota,UND,North Dakota Fighting Hawks,00A26B,c2c3c0
+202,North Dakota State,Bison,N Dakota St,NDSU,North Dakota State Bison,01402A,ffffff
+203,North Florida,Ospreys,North Florida,UNF,North Florida Ospreys,004B8D,babcbe
+204,North Texas,Mean Green,North Texas,UNT,North Texas Mean Green,ffffff,000000
+205,Northeastern,Huskies,Northeastern,NE,Northeastern Huskies,CC0001,c2c3c0
+206,Northern Arizona,Lumberjacks,N Arizona,NAU,Northern Arizona Lumberjacks,003976,1b3069
+207,Northern Colorado,Bears,N Colorado,UNCO,Northern Colorado Bears,13558D,ffc533
+208,Northern Illinois,Huskies,N Illinois,NIU,Northern Illinois Huskies,F1122C,cc0000
+209,Northern Iowa,Panthers,Northern Iowa,UNI,Northern Iowa Panthers,473282,ffffff
+210,Northern Kentucky,Norse,N Kentucky,NKU,Northern Kentucky Norse,ffc82e,000000
+211,Northwestern State,Demons,N'Western St,NWST,Northwestern State Demons,492F91,ed6118
+212,Northwestern,Wildcats,Northwestern,NU,Northwestern Wildcats,582c83,ffffff
+213,Notre Dame,Fighting Irish,Notre Dame,ND,Notre Dame Fighting Irish,0c2340,c99700
+214,Oakland,Golden Grizzlies,Oakland,OAK,Oakland Golden Grizzlies,04091c,bc955c
+215,Ohio,Bobcats,Ohio,OHIO,Ohio Bobcats,295A29,e4bb85
+216,Ohio State,Buckeyes,Ohio State,OSU,Ohio State Buckeyes,ce1141,505056
+217,Oklahoma,Sooners,Oklahoma,OU,Oklahoma Sooners,a32036,ffffff
+218,Oklahoma State,Cowboys,Oklahoma St,OKST,Oklahoma State Cowboys,000000,dddddd
+219,Old Dominion,Monarchs,Old Dominion,ODU,Old Dominion Monarchs,00507d,a1d2f1
+220,Ole Miss,Rebels,Ole Miss,MISS,Ole Miss Rebels,13294b,c8102e
+221,Omaha,Mavericks,Omaha,OMA,Omaha Mavericks,e3193e,
+222,Oral Roberts,Golden Eagles,Oral Roberts,ORU,Oral Roberts Golden Eagles,002462,dac792
+223,Oregon,Ducks,Oregon,ORE,Oregon Ducks,007030,fee11a
+224,Oregon State,Beavers,Oregon St,ORST,Oregon State Beavers,231f20,d73f09
+225,Pacific,Tigers,Pacific,PAC,Pacific Tigers,F47820,c2c3c0
+226,Penn State,Nittany Lions,Penn State,PSU,Penn State Nittany Lions,00265D,002e5c
+227,Pennsylvania,Quakers,Penn,PENN,Pennsylvania Quakers,082A74,a6163d
+228,Pepperdine,Waves,Pepperdine,PEPP,Pepperdine Waves,003A72,dc762f
+229,Pittsburgh,Panthers,Pitt,PITT,Pittsburgh Panthers,003263,231f20
+230,Portland,Pilots,Portland,PORT,Portland Pilots,330072,a8b3ba
+231,Portland State,Vikings,Portland St,PRST,Portland State Vikings,00311e,ebebeb
+232,Prairie View A&M,Panthers,Prairie View,PV,Prairie View A&M Panthers,4d0960,
+233,Presbyterian,Blue Hose,Presbyterian,PRES,Presbyterian Blue Hose,194896,990134
+234,Princeton,Tigers,Princeton,PRIN,Princeton Tigers,000000,ff6000
+235,Providence,Friars,Providence,PROV,Providence Friars,000000,a3a19e
+236,Purdue,Boilermakers,Purdue,PUR,Purdue Boilermakers,000000,cfb991
+237,Purdue Fort Wayne,Mastodons,Purdue FW,PFW,Purdue Fort Wayne Mastodons,00378A,f0f0f0
+238,Quinnipiac,Bobcats,Quinnipiac,QUIN,Quinnipiac Bobcats,041B43,
+239,Radford,Highlanders,Radford,RAD,Radford Highlanders,BC1515,c2c3c0
+240,Rhode Island,Rams,Rhode Island,URI,Rhode Island Rams,091f3f,5ab3e8
+241,Rice,Owls,Rice,RICE,Rice Owls,d1d5d8,ffffff
+242,Richmond,Spiders,Richmond,RICH,Richmond Spiders,9e0712,b90b2e
+243,Rider,Broncs,Rider,RID,Rider Broncs,a80532,ebebeb
+244,Robert Morris,Colonials,Robert Morris,RMU,Robert Morris Colonials,00214D,a21d2b
+245,Rutgers,Scarlet Knights,Rutgers,RUTG,Rutgers Scarlet Knights,d21034,ffffff
+246,SE Louisiana,Lions,SE Louisiana,SELA,SE Louisiana Lions,215732,ffc72c
+247,SIU Edwardsville,Cougars,SIUE,SIUE,SIU Edwardsville Cougars,eb1c23,080808
+248,SMU,Mustangs,SMU,SMU,SMU Mustangs,354ca1,cc0035
+249,Sacramento State,Hornets,Sacramento St,SAC,Sacramento State Hornets,00573C,cdb97d
+250,Sacred Heart,Pioneers,Sacred Heart,SHU,Sacred Heart Pioneers,a40012,c29472
+251,Saint Joseph's,Hawks,Saint Joseph's,JOES,Saint Joseph's Hawks,C2071B,101010
+252,Saint Louis,Billikens,Saint Louis,SLU,Saint Louis Billikens,00539C,ebebeb
+253,Saint Mary's,Gaels,Saint Mary's,SMC,Saint Mary's Gaels,d80024,003057
+254,Saint Peter's,Peacocks,Saint Peter's,SPU,Saint Peter's Peacocks,004CC2,
+255,Sam Houston,Bearkats,Sam Houston,SHSU,Sam Houston Bearkats,fe5000,000000
+256,Samford,Bulldogs,Samford,SAM,Samford Bulldogs,005485,bc0023
+257,San Diego State,Aztecs,San Diego St,SDSU,San Diego State Aztecs,c41230,000000
+258,San Diego,Toreros,San Diego,USD,San Diego Toreros,2f99d4,2f99d4
+259,San Francisco,Dons,San Francisco,SF,San Francisco Dons,22523F,fbcd3c
+260,San José State,Spartans,San José St,SJSU,San José State Spartans,005893,fdba31
+261,Santa Clara,Broncos,Santa Clara,SCU,Santa Clara Broncos,690b0b,101010
+262,Seattle U,Redhawks,Seattle U,SEA,Seattle U Redhawks,BF2E1A,c2c3c0
+263,Seton Hall,Pirates,Seton Hall,HALL,Seton Hall Pirates,0857B1,8a8d8f
+264,Siena,Saints,Siena,SIE,Siena Saints,037961,eea60f
+265,South Alabama,Jaguars,South Alabama,USA,South Alabama Jaguars,003E7E,
+266,South Carolina,Gamecocks,South Carolina,SC,South Carolina Gamecocks,73000a,ffffff
+267,South Carolina State,Bulldogs,SC State,SCST,South Carolina State Bulldogs,7d1315,104897
+268,South Carolina Upstate,Spartans,SC Upstate,UPST,South Carolina Upstate Spartans,008545,000000
+269,South Dakota,Coyotes,South Dakota,SDAK,South Dakota Coyotes,CD1241,f0f0f0
+270,South Dakota State,Jackrabbits,S Dakota St,SDST,South Dakota State Jackrabbits,0033a0,ffd100
+271,South Florida,Bulls,South Florida,USF,South Florida Bulls,004A36,231f20
+272,Southeast Missouri State,Redhawks,SE Missouri,SEMO,Southeast Missouri State Redhawks,c8102e,000000
+273,Southern Illinois,Salukis,S Illinois,SIU,Southern Illinois Salukis,85283D,c2c3c0
+274,Southern,Jaguars,Southern,SOU,Southern Jaguars,004B97,ffc82d
+275,Southern Miss,Golden Eagles,Southern Miss,USM,Southern Miss Golden Eagles,FFAA3C,ffc423
+276,Southern Utah,Thunderbirds,Southern Utah,SUU,Southern Utah Thunderbirds,c72026,000000
+277,St. Bonaventure,Bonnies,St Bonaventure,SBU,St. Bonaventure Bonnies,70261D,
+278,St. Francis (PA),Red Flash,St Francis PA,SFPA,St. Francis (PA) Red Flash,a20012,
+279,St. John's,Red Storm,St John's,SJU,St. John's Red Storm,d10000,101010
+280,St. Thomas-Minnesota,Tommies,St Thomas (MN),STMN,St. Thomas-Minnesota Tommies,000000,
+281,Stanford,Cardinal,Stanford,STAN,Stanford Cardinal,8c1515,ffffff
+282,Stephen F. Austin,Lumberjacks,SF Austin,SFA,Stephen F. Austin Lumberjacks,393996,bec0c2
+283,Stetson,Hatters,Stetson,STET,Stetson Hatters,0a5640,56854e
+284,Stonehill,Skyhawks,Stonehill,STO,Stonehill Skyhawks,000000,
+285,Stony Brook,Seawolves,Stony Brook,STBK,Stony Brook Seawolves,990000,
+286,Syracuse,Orange,Syracuse,SYR,Syracuse Orange,ff6500,000e54
+287,TCU,Horned Frogs,TCU,TCU,TCU Horned Frogs,4d1979,f1f2f3
+288,Tarleton State,Texans,Tarleton St,TAR,Tarleton State Texans,000000,
+289,Temple,Owls,Temple,TEM,Temple Owls,A80532,a7a9ac
+290,Tennessee State,Tigers,Tennessee St,TNST,Tennessee State Tigers,171796,f0f0f0
+291,Tennessee Tech,Golden Eagles,Tennessee Tech,TNTC,Tennessee Tech Golden Eagles,5A4099,ffde00
+292,Tennessee,Volunteers,Tennessee,TENN,Tennessee Volunteers,ff8200,58595b
+293,Texas A&M,Aggies,Texas A&M,TA&M,Texas A&M Aggies,500000,ffffff
+294,Texas A&M-Corpus Christi,Islanders,Texas A&M-CC,AMCC,Texas A&M-Corpus Christi Islanders,0067c5,007f3e
+295,Texas,Longhorns,Texas,TEX,Texas Longhorns,c15d26,ffffff
+296,Texas Southern,Tigers,Texas Southern,TXSO,Texas Southern Tigers,860038,ffffff
+297,Texas State,Bobcats,Texas St,TXST,Texas State Bobcats,4e1719,b4975a
+298,Texas Tech,Red Raiders,Texas Tech,TTU,Texas Tech Red Raiders,000000,da291c
+299,The Citadel,Bulldogs,The Citadel,CIT,The Citadel Bulldogs,002b5c,f0f0f0
+300,Toledo,Rockets,Toledo,TOL,Toledo Rockets,0a2240,ffcd00
+301,Towson,Tigers,Towson,TOW,Towson Tigers,FFC229,
+302,Troy,Trojans,Troy,TROY,Troy Trojans,AE0210,88898c
+303,Tulane,Green Wave,Tulane,TULN,Tulane Green Wave,006547,468ac9
+304,Tulsa,Golden Hurricane,Tulsa,TLSA,Tulsa Golden Hurricane,003595,d0b787
+305,UAB,Blazers,UAB,UAB,UAB Blazers,054338,ffc845
+306,UAlbany,Great Danes,UAlbany,ALB,UAlbany Great Danes,3D2777,ffffff
+307,UC Davis,Aggies,UC Davis,UCD,UC Davis Aggies,002855,c3c4c6
+308,UC Irvine,Anteaters,UC Irvine,UCI,UC Irvine Anteaters,002B5C,fec52e
+309,UC Riverside,Highlanders,UC Riverside,UCR,UC Riverside Highlanders,14234F,
+310,UC San Diego,Tritons,UC San Diego,UCSD,UC San Diego Tritons,182B49,FFCD00
+311,UC Santa Barbara,Gauchos,Santa Barbara,UCSB,UC Santa Barbara Gauchos,1e1840,febc11
+312,UCF,Knights,UCF,UCF,UCF Knights,000000,b4a269
+313,UCLA,Bruins,UCLA,UCLA,UCLA Bruins,2774ae,f2a900
+314,UConn,Huskies,UConn,CONN,UConn Huskies,0c2340,f1f2f3
+315,UIC,Flames,UIC,UIC,UIC Flames,001e62,d50032
+316,UL Monroe,Warhawks,UL Monroe,ULM,UL Monroe Warhawks,231F20,b18445
+317,UMBC,Retrievers,UMBC,UMBC,UMBC Retrievers,000000,ad860a
+318,UMass Lowell,River Hawks,UMass Lowell,UML,UMass Lowell River Hawks,00529C,cf1f2f
+319,UNC Asheville,Bulldogs,UNC Asheville,UNCA,UNC Asheville Bulldogs,003da5,ffffff
+320,UNC Greensboro,Spartans,UNC Greensboro,UNCG,UNC Greensboro Spartans,003559,ffd90a
+321,UNC Wilmington,Seahawks,UNC Wilmington,UNCW,UNC Wilmington Seahawks,00665e,ffda00
+322,UNLV,Rebels,UNLV,UNLV,UNLV Rebels,b10202,ffffff
+323,USC,Trojans,USC,USC,USC Trojans,9e2237,ffcc00
+324,UT Arlington,Mavericks,UT Arlington,UTA,UT Arlington Mavericks,004b7c,f58024
+325,UT Martin,Skyhawks,UT Martin,UTM,UT Martin Skyhawks,FF6700,102a5c
+326,UT Rio Grande Valley,Vaqueros,UT Rio Grande,RGV,UT Rio Grande Valley Vaqueros,dc6000,e1732d
+327,UTEP,Miners,UTEP,UTEP,UTEP Miners,ff8200,041e42
+328,UTSA,Roadrunners,UTSA,UTSA,UTSA Roadrunners,002A5C,f47321
+329,Utah State,Aggies,Utah State,USU,Utah State Aggies,00263a,949ca1
+330,Utah Tech,Trailblazers,Utah Tech,UTU,Utah Tech Trailblazers,000000,
+331,Utah,Utes,Utah,UTAH,Utah Utes,ea002a,ffffff
+332,Utah Valley,Wolverines,Utah Valley,UVU,Utah Valley Wolverines,004812,e1c736
+333,VCU,Rams,VCU,VCU,VCU Rams,ffaf00,000000
+334,VMI,Keydets,VMI,VMI,VMI Keydets,ae122a,ffd619
+335,Valparaiso,Beacons,Valparaiso,VAL,Valparaiso Beacons,794500,
+336,Vanderbilt,Commodores,Vanderbilt,VAN,Vanderbilt Commodores,000000,231f20
+337,Vermont,Catamounts,Vermont,UVM,Vermont Catamounts,154734,ffc72c
+338,Villanova,Wildcats,Villanova,VILL,Villanova Wildcats,00205b,13b5ea
+339,Virginia,Cavaliers,Virginia,UVA,Virginia Cavaliers,232d4b,f84c1e
+340,Virginia Tech,Hokies,Virginia Tech,VT,Virginia Tech Hokies,630031,cf4520
+341,Wagner,Seahawks,Wagner,WAG,Wagner Seahawks,00483A,ffffff
+342,Wake Forest,Demon Deacons,Wake Forest,WAKE,Wake Forest Demon Deacons,000000,ceb888
+343,Washington,Huskies,Washington,WASH,Washington Huskies,33006f,e8d3a2
+344,Washington State,Cougars,Washington St,WSU,Washington State Cougars,981e32,ffffff
+345,Weber State,Wildcats,Weber St,WEB,Weber State Wildcats,18005a,ebebeb
+346,West Georgia,Wolves,West Georgia,WGA,West Georgia Wolves,0033a1,db1a21
+347,West Virginia,Mountaineers,West Virginia,WVU,West Virginia Mountaineers,002855,eaaa00
+348,Western Carolina,Catamounts,W Carolina,WCU,Western Carolina Catamounts,492F91,bf9e70
+349,Western Illinois,Leathernecks,W Illinois,WIU,Western Illinois Leathernecks,4e1e8a,ffc90a
+350,Western Kentucky,Hilltoppers,Western KY,WKU,Western Kentucky Hilltoppers,F32026,b3b5b8
+351,Western Michigan,Broncos,W Michigan,WMU,Western Michigan Broncos,532e1f,8b7f79
+352,Wichita State,Shockers,Wichita St,WICH,Wichita State Shockers,0d0a03,ffc41e
+353,William & Mary,Tribe,William & Mary,W&M,William & Mary Tribe,103217,f6b220
+354,Winthrop,Eagles,Winthrop,WIN,Winthrop Eagles,9e0b0e,fdb41e
+355,Wisconsin,Badgers,Wisconsin,WIS,Wisconsin Badgers,c4012f,ffffff
+356,Wofford,Terriers,Wofford,WOF,Wofford Terriers,533B22,f0f0f0
+357,Wright State,Raiders,Wright St,WRST,Wright State Raiders,cba052,cba052
+358,Wyoming,Cowboys,Wyoming,WYO,Wyoming Cowboys,492f24,ffc425
+359,Xavier,Musketeers,Xavier,XAV,Xavier Musketeers,21304e,a5a7a8
+360,Yale,Bulldogs,Yale,YALE,Yale Bulldogs,004a81,286dc0
+361,Youngstown State,Penguins,Youngstown St,YSU,Youngstown State Penguins,E51935,690717
+362,Queens University,Royals,Queens,QUC,Queens University Royals,192C66,857040
+363,Hartford,Hawks,Hartford,HART,Hartford Hawks,D60008,000000
+364,St. Francis Brooklyn,Terriers,St Francis BK,SFBK,St. Francis Brooklyn Terriers,005496,e03a3e
+365,Southern Indiana,Screaming Eagles,So Indiana,USI,Southern Indiana Screaming Eagles,CF102D,002D5D
+366,Lindenwood,Lions,Lindenwood,LIN,Lindenwood Lions,101820,B5A36A
+367,Centenary (LA),,,,,,
+368,Hardin-Simmons,,,,,,
+369,Oklahoma City,,,,,,
+370,Augusta,,,,,,
+371,Birmingham-Southern,,,,,,
+372,Armstrong,,,,,,
+373,Chicago,,,,,,
+374,Cal State Los Angeles,,,,,,
+375,Baltimore,,,,,,
+376,Catholic,,,,,,
+378,Case Western Reserve,,,,,,
+379,Wayne State (MI),,,,,,
+380,Savannah State,,,,,,
+381,Washington (MO),,,,,,
+382,West Texas A&M,,,,,,
+383,Grinnell,,,,,,
+384,Washburn,,,,,,
+385,Sewanee,,,,,,
+386,Washington & Lee,,,,,,
+387,Millsaps,,,,,,
+388,Newberry,,,,,,
+389,Trinity (TX),,,,,,
+390,Northeastern Illinois,,,,,,
+391,Muhlenberg,,,,,,
+392,New York University,,,,,,
+393,City College of New York,,,CCNY,,,
+394,Mount Union,,,,,,
+395,Wabash,,,,,,
+396,Carleton College,,,,,,
+397,Denison,,,,,,
+398,Springfield,,,,,,
+399,Grove City,,,,,,
+400,Loyola (LA),,,,,,
+401,Wooster,,,,,,
+402,Southwestern (KS),,,,,,
+403,Westminster (PA),,,,,,
+404,Allegheny,,,,,,
+405,DePauw,,,,,,
+406,Union (NY),,,,,,
+407,Millikin,,,,,,
+408,Gettysburg,,,,,,
+409,Franklin,,,,,,
+410,Central Missouri,,,,,,
+411,Williams,,,,,,
+412,Kalamazoo,,,,,,
+413,Nebraska Wesleyan,,,,,,
+414,Brooklyn,,,,,,
+415,Marietta,,,,,,
+416,Washington College,,,,,,
+417,Wisconsin-Stevens Point,,,,,,
+418,Wesleyan (CT),,,,,,
+419,Swarthmore,,,,,,
+420,Lake Forest,,,,,,
+421,Northwest Missouri State,,,,,,
+422,Bloomsburg,,,,,,
+423,Pittsburg State,,,,,,
+424,Baldwin-Wallace,,,,,,
+425,Hamline,,,,,,
+426,Augustana (IL),,,,,,
+427,Geneva,,,,,,
+428,John Carroll,,,,,,
+429,North Central (IL),,,,,,
+430,Rochester (NY),,,,,,
+431,Washington & Jefferson,,,,,,
+432,St. Lawrence,,,,,,
+433,U.S. International,,,,,,
+434,Roanoke,,,,,,
+435,Beloit,,,,,,
+436,East Central,,,,,,
+437,Utica,,,,,,
+438,Baker,,,,,,
+439,Oberlin,,,,,,
+440,Ripon,,,,,,
+441,Hiram,,,,,,
+442,Hope,,,,,,
+443,Muskingum,,,,,,
+444,Centre (KY),,,,,,
+445,Wheaton (IL),,,,,,
+446,Whittier,,,,,,
+447,Regis (CO),,,,,,
+448,Stevens Institute,,,,,,
+449,Ohio Wesleyan,,,,,,
+450,Kentucky Wesleyan,,,,,,
+451,Rensselaer,,,,,,
+452,Trinity (CT),,,,,,
+453,Haskell (KS),,,,,,
+454,Minnesota A&M,,,,,,
+455,Cotner College,,,,,,
+456,Lawrence Tech,,,,,,
+457,SUNY-Potsdam,,,,,,
+458,Lewis,,,,,,
+459,Widener,,,,,,
+460,Canterbury College,,,,,,
+461,Dakota Wesleyan,,,,,,
+462,Texas Wesleyan,,,,,,
+463,Wittenberg,,,,,,
+464,Emporia State,,,,,,
+465,Westminster (MO),,,,,,
+466,Dickinson College,,,,,,
+467,Ensign College,,,,,,
+468,Manchester,,,,,,
+469,St. John's College (OH),,,,,,
+470,Concordia Seminary,,,,,,
+471,WPI,,,,,,
+472,Illinois Wesleyan,,,,,,
+473,Merchant Marine,,,,,,
+474,Morris Brown,,,,,,
+475,Amherst,,,,,,
+476,West Chester,,,,,,
+477,Brigham Young College,,,,,,
+478,Massachusetts Institute of Technology,,,,,,
+479,Wisconsin-Superior,,,,,,
+480,Macalester,,,,,,
+481,Scranton,,,,,,
+482,Savage School of Physical Education,,,,,,
+483,Colorado School of Mines,,,,,,
+484,Cumberland,,,,,,
+485,College of New Jersey,,,,,,
+486,Central Pennsylvania College,,,,,,
+487,Rose-Hulman,,,,,,
+488,Cheyenne Business College,,,,,,
+489,Western Colorado,,,,,,
+492,IU Columbus,Crimson Pride,,IUC,IU Columbus Crimson Pride,,
+493,Oglethorpe,Stormy Petrels,,OGLET,Oglethorpe Stormy Petrels,,
+494,UNT Dallas,Trailblazers,,UNTD,UNT Dallas Trailblazers,,
+495,LaGrange,Panthers,,LAG,LaGrange Panthers,000000,
+496,Penn State-York,Nittany Lions,,PSY,Penn State-York Nittany Lions,,
+497,Erskine,Flying Fleet,,ERSKINE,Erskine Flying Fleet,701931,000000
+498,Old Westbury,Panthers,,OWB,Old Westbury Panthers,,
+499,Framingham State,Rams,,FRST,Framingham State Rams,,
+500,Washington College (MD),Shoremen,,WCMD,Washington College (MD) Shoremen,000000,
+501,Georgian Court,Lions,,GEO,Georgian Court Lions,,
+502,Rivier,Raiders,,RIV,Rivier Raiders,,
+503,Piedmont,Lions,,PIEDM,Piedmont Lions,,
+504,Houghton,Highlanders,,HOUGH,Houghton Highlanders,000000,
+505,Cheyney (PA),Wolves,,CHEY,Cheyney (PA) Wolves,000000,
+506,Alice Lloyd College,Eagles,,ALICE,Alice Lloyd College Eagles,,
+507,Morris College,Hornets,,MOR,Morris College Hornets,,
+508,Bluffton,Beavers,,BLUFFTON,Bluffton Beavers,46166a,ffffff
+509,Defiance,Yellow Jackets,,DEF,Defiance Yellow Jackets,4e2d8a,ded27c
+510,Notre Dame (Md),Gators,,NOT,Notre Dame (Md) Gators,,
+511,Cleary University,Cougars,,CLE,Cleary University Cougars,,
+512,Hannibal-LaGrange,Trojans,,HNB,Hannibal-LaGrange Trojans,,
+513,Davis & Elkins,Senators,,DVE,Davis & Elkins Senators,,
+514,Dickinson (PA),Red Devils,,DIC,Dickinson (PA) Red Devils,ed192d,000000
+515,Mount Olive,Trojans,,MO,Mount Olive Trojans,,
+516,Mid-Atlantic Christian,Mustangs,,MATYKL,Mid-Atlantic Christian Mustangs,,
+517,Columbia International,Rams,,COLI,Columbia International Rams,,
+518,Frostburg State,Bobcats,,FRO,Frostburg State Bobcats,000000,
+519,NC Wesleyan,Battling Bishops,,NORTH,NC Wesleyan Battling Bishops,000000,
+520,College Of Biblical Studies,Ambassadors,,CBS,College Of Biblical Studies Ambassadors,,
+521,Trinity Baptist,Eagles,,TRB,Trinity Baptist Eagles,,
+522,William Peace,Pacers,,WILP,William Peace Pacers,,
+523,Marywood,Pacers,,MARYWOOD,Marywood Pacers,000000,
+524,Vermont State - Lyndon,Hornets,,NVERLYND,Vermont State - Lyndon Hornets,,
+526,Newberry,Wolves,,NBRY,Newberry Wolves,d02030,8a8c8f
+527,Lakeland,Muskies,,LAKEL,Lakeland Muskies,007dc3,ffc423
+528,New College (FL),Mighty Banyans,,NCF,New College (FL) Mighty Banyans,,
+529,Lynchburg,Hornets,,LYNCHBURG,Lynchburg Hornets,,
+530,York College Nebraska,Panthers,,YOR,York College Nebraska Panthers,,
+531,LSU Alexandria,Bull Terriers,,LSUA,LSU Alexandria Bull Terriers,,
+532,Mississippi College,Choctaws,,MSCO,Mississippi College Choctaws,0c2240,c89700
+533,Bob Jones,Bruins,,BOB,Bob Jones Bruins,,
+534,Dallas Christian,Crusaders,,DALLA,Dallas Christian Crusaders,,
+535,Pfeiffer,Falcons,,PFEIF,Pfeiffer Falcons,,
+536,Maryville College (TN),Fighting Scots,,MRYVILTN,Maryville College (TN) Fighting Scots,000000,
+537,Louisiana Christian,Wildcats,,LACOLLEGE,Louisiana Christian Wildcats,000000,
+538,Randolph College,Wildcats,,RANDO,Randolph College Wildcats,,
+539,Arkansas Baptist,Buffaloes,,ARBA,Arkansas Baptist Buffaloes,,
+540,Bethel (TN),Wildcats,,BETHTN,Bethel (TN) Wildcats,000000,
+541,Mid-America Christian,Evangels,,MIDACU,Mid-America Christian Evangels,,
+542,Jamestown,Jimmies,,JAM,Jamestown Jimmies,000000,
+543,Northeastern State,RiverHawks,,NEO,Northeastern State RiverHawks,000000,
+544,Western Colorado,Mountaineers,,WCOL,Western Colorado Mountaineers,,
+545,St. Francis (IL),Fighting Saints,,SFIL,St. Francis (IL) Fighting Saints,000000,
+546,Penn State - Wilkes-Barre,Mountain Lions,,PSWILKES,Penn State - Wilkes-Barre Mountain Lions,,
+547,Dean College,Bulldogs,,DEAN,Dean College Bulldogs,,
+548,Union (TN),Bulldogs,,UNI,Union (TN) Bulldogs,000000,
+549,Park University Gilbert,Buccaneers,,PARK,Park University Gilbert Buccaneers,,
+550,Paul Quinn,Tigers,,PPN,Paul Quinn Tigers,000000,
+551,Trinity (TX),Tigers,,TRINTX,Trinity (TX) Tigers,000000,
+552,Avila,Eagles,,AVILA,Avila Eagles,000000,
+553,Dubuque,Spartans,,DUB,Dubuque Spartans,000000,
+554,Dallas,Crusaders,,DALLAS,Dallas Crusaders,,
+555,Fisk,Bulldogs,,FISK,Fisk Bulldogs,000000,
+556,Westminster (MO),Blue Jays,,WMN,Westminster (MO) Blue Jays,06496f,ffffff
+557,Champion Christian,Tigers,,CHAMP,Champion Christian Tigers,,
+558,Western New Mexico,Mustangs,,WNMEX,Western New Mexico Mustangs,000000,
+559,Howard Payne,Yellow Jackets,,HOWPAY,Howard Payne Yellow Jackets,02215b,b5985b
+560,William Carey,Crusaders,,WLCA,William Carey Crusaders,000000,
+561,Southern-New Orleans,Knights,,SOUTH,Southern-New Orleans Knights,000000,
+562,North Central (MN),Rams,,NOR,North Central (MN) Rams,,
+563,Sul Ross State,Lobos,,SUL,Sul Ross State Lobos,000000,
+564,New Mexico Highlands,Cowboys,,NMH,New Mexico Highlands Cowboys,000000,
+565,Hawai'i Hilo,Vulcans,,HWHILO,Hawai'i Hilo Vulcans,,
+566,Northwest University,Eagles,,NWU,Northwest University Eagles,,
+567,Northwest Indian,RedHawks,,NOR,Northwest Indian RedHawks,,
+568,Concordia-St. Paul,Golden Bears,,CONCSTP,Concordia-St. Paul Golden Bears,000000,
+569,Jessup University,Warriors,,JES,Jessup University Warriors,000000,
+570,Life Pacific,Warriors,,LIF,Life Pacific Warriors,,
+571,San Francisco State,Gators,,SFSU,San Francisco State Gators,,
+572,Colorado College,Tigers,,COLC,Colorado College Tigers,000000,
+573,La Verne,Leopards,,LAVERNE,La Verne Leopards,004812,f89828
+574,Chapman,Panthers,,CHA,Chapman Panthers,ab1d38,000000
+575,Westminster (PA),Titans,,WMNPA,Westminster (PA) Titans,000000,
+576,SUNY-Canton,Roos,,SUN,SUNY-Canton Roos,,
+577,Toccoa Falls,Eagles,,TF,Toccoa Falls Eagles,000000,
+578,Cal Maritime,Keelhaulers,,CALMA,Cal Maritime Keelhaulers,000000,
+579,Maine-Fort Kent,Bengals,,MEFK,Maine-Fort Kent Bengals,,
+580,Ohio Christian,Trailblazers,,OC,Ohio Christian Trailblazers,,
+581,Boyce,Bulldogs,,BOY,Boyce Bulldogs,,
+582,Baldwin Wallace,Yellow Jackets,,BALW,Baldwin Wallace Yellow Jackets,000000,
+583,Texas A&M-San Antonio,Jaguars,,TASA,Texas A&M-San Antonio Jaguars,,
+584,Virginia-Lynchburg,Dragons,,UVAL,Virginia-Lynchburg Dragons,,
+585,Massachusetts-Boston,Beacons,,MB,Massachusetts-Boston Beacons,,
+586,Carolina Christian College,Centurions,,CAR,Carolina Christian College Centurions,,
+587,St. Andrews,Knights,,ST. A,St. Andrews Knights,000000,
+588,Earlham College,Quakers,,EARLHAM,Earlham College Quakers,000000,
+589,Lewis & Clark,Pioneers,,LEW,Lewis & Clark Pioneers,f37737,000000
+590,Kentucky Christian,Knights,,KYCHR,Kentucky Christian Knights,000000,
+591,Point University,Skyhawks,,POI,Point University Skyhawks,000000,
+592,Bethesda University,Flames,,BTHD,Bethesda University Flames,,
+593,SUNY-Oneonta,Red Dragons,,SUNO,SUNY-Oneonta Red Dragons,,
+594,Oakwood,Ambassadors,,OAKWO,Oakwood Ambassadors,000000,
+595,University of Health Sciences & Pharmacy,Eutectics,,UHSP,University of Health Sciences & Pharmacy Eutectics,,
+596,WPI,Engineers,,WPI,WPI Engineers,000000,
+597,Eureka,Red Devils,,EUR,Eureka Red Devils,960a2c,c09a05
+598,Mississippi University For Women,Owls,,MSWO,Mississippi University For Women Owls,,
+599,Purchase,Panthers,,SUNY,Purchase Panthers,000000,
+600,Davenport,Panthers,,DAVEN,Davenport Panthers,,
+601,Holy Cross College (IN),Saints,,HCC,Holy Cross College (IN) Saints,,
+602,Bryan (TN),Lions,,BRTN,Bryan (TN) Lions,,
+603,UT Dallas,Comets,,TEXAS,UT Dallas Comets,000000,
+604,Wayland Baptist,Pioneers,,WAYLAND,Wayland Baptist Pioneers,,
+605,Evergreen State,Geoducks,,EVERG,Evergreen State Geoducks,000000,
+606,Siena Heights,Saints,,SH,Siena Heights Saints,000000,
+607,Southwestern (TX),Pirates,,SW,Southwestern (TX) Pirates,000000,ffcd00
+608,Franklin,Grizzlies,,FRANKLIN,Franklin Grizzlies,1b295b,fdd106
+609,Coastal Georgia,Mariner,,CCGA,Coastal Georgia Mariner,,
+610,Miami (OH)-Hamilton,Harriers,,MIAMIUHAM,Miami (OH)-Hamilton Harriers,,
+611,Ohio Wesleyan,Battling Bishops,,OHWESL,Ohio Wesleyan Battling Bishops,000000,
+612,Missouri S&T,Miners,,M-ST,Missouri S&T Miners,,
+613,Ozark Christian,Ambassadors,,OZCH,Ozark Christian Ambassadors,,
+614,Kansas Christian,Falcons,,KCC,Kansas Christian Falcons,,
+615,McMurry,War Hawks,,MCM,McMurry War Hawks,98002e,000000
+616,Concordia-Ann Arbor,Cardinals,,CONCMI,Concordia-Ann Arbor Cardinals,000000,
+617,Fredonia State,Blue Devils,,FRE,Fredonia State Blue Devils,,
+618,Nelson,Lions,,NEL,Nelson Lions,,
+619,Pratt,Cannoneers,,PRAT,Pratt Cannoneers,000000,
+620,Manor College,Blue Jays,,MAN,Manor College Blue Jays,,
+621,Brescia,Bearcats,,BRESC,Brescia Bearcats,,
+622,Xavier (LA),Gold Nuggets,,XAVL,Xavier (LA) Gold Nuggets,000000,
+623,Penn State-Schuylkill,Nittany Lions,,PSUS,Penn State-Schuylkill Nittany Lions,,
+624,SUNY Poly,Wildcats,,SUNYPI,SUNY Poly Wildcats,,
+625,Lancaster Bible College,Chargers,,LBC,Lancaster Bible College Chargers,,
+626,Bluefield University,Ramblin' Rams,,BLU,Bluefield University Ramblin' Rams,000000,
+627,Chatham University,Cougars,,CHA,Chatham University Cougars,,
+628,Mount Marty College,Lancers,,MTM,Mount Marty College Lancers,,
+629,Menlo,Oaks,,MENLO,Menlo Oaks,000000,
+630,Dillard,Blue Devils,,DILLARD,Dillard Blue Devils,000000,
+631,Valley Forge,Patriots,,UVF,Valley Forge Patriots,,
+632,Voorhees,Tigers,,VOORH,Voorhees Tigers,,
+633,Augusta,Jaguars,,AUGUS,Augusta Jaguars,,
+634,Vermont State - Johnson,Badgers,,VTSJ,Vermont State - Johnson Badgers,,
+635,Taylor,Trojans,,TAY,Taylor Trojans,000000,
+636,Missouri Southern State,Lions,,MOSSTC,Missouri Southern State Lions,000000,
+637,Southern Oregon,Raiders,,SOU,Southern Oregon Raiders,,
+638,Mount Saint Mary (NY),Knights,,MSM,Mount Saint Mary (NY) Knights,,
+639,Dickinson State (ND),Blue Hawks,,DKST,Dickinson State (ND) Blue Hawks,000000,
+640,District Of Columbia,Firebirds,,DC,District Of Columbia Firebirds,,
+641,Goshen,Maple Leafs,,GOSHE,Goshen Maple Leafs,,
+642,Christendom,Crusaders,,CHR,Christendom Crusaders,,
+643,Mercy,Mavericks,,MERCY,Mercy Mavericks,000000,
+644,Mary Baldwin,Fighting Squirrels,,MARY,Mary Baldwin Fighting Squirrels,,
+645,Gwynedd-Mercy,Griffins,,GWY,Gwynedd-Mercy Griffins,,
+646,Carolina University,Bruins,,CARU,Carolina University Bruins,,
+647,Franklin Pierce,Ravens,,FRA,Franklin Pierce Ravens,000000,
+648,LeTourneau,Yellow Jackets,,LTRN,LeTourneau Yellow Jackets,,
+649,Rhodes,Lynx,,RHO,Rhodes Lynx,000000,
+650,Loyola New Orleans,Wolfpack,,LOLA,Loyola New Orleans Wolfpack,000000,
+651,Campbellsville,Tigers,,CMPBVIL,Campbellsville Tigers,,
+652,Colorado Christian,Cougars,,COLOR,Colorado Christian Cougars,000000,
+653,UT Permian Basin,Falcons,,TXPBAS,UT Permian Basin Falcons,000000,
+654,Corban College,Warriors,,CORB,Corban College Warriors,000000,
+655,Occidental,Tigers,,OCCID,Occidental Tigers,000000,
+656,Western Oregon,Wolves,,WORE,Western Oregon Wolves,000000,
+657,Truett-McConnell,Bears,,TRMC,Truett-McConnell Bears,,
+658,Emerson,Lions,,EMER,Emerson Lions,,
+659,Tusculum,Pioneers,,TUS,Tusculum Pioneers,f2682a,000000
+660,Crowley's Ridge,Pioneers,,CROWL,Crowley's Ridge Pioneers,,
+661,Randall University,Saints,,RAND,Randall University Saints,,
+662,Westminster (UT),Griffins,,WUH,Westminster (UT) Griffins,,
+663,Seattle Pacific,Falcons,,SEAPAC,Seattle Pacific Falcons,000000,
+664,Nobel,Knights,,NOB,Nobel Knights,,
+665,North Greenville,Crusaders,,NGR,North Greenville Crusaders,d91e39,000000
+666,Florida National,Conquistadors,,FLORI,Florida National Conquistadors,,
+667,Dakota Wesleyan,Tigers,,DAK,Dakota Wesleyan Tigers,000000,
+668,Ecclesia,Royals,,ECCLE,Ecclesia Royals,,
+669,Tabor,Tabor,,TABOR,Tabor,000000,
+670,La Sierra,Golden Eagles,,LA SI,La Sierra Golden Eagles,,
+671,John Jay College,Bloodhounds,,JOHN,John Jay College Bloodhounds,,
+672,St. Norbert,Green Knights,,STN,St. Norbert Green Knights,000000,
+673,Texas College,Steers,,TXCL,Texas College Steers,000000,
+674,Saint Mary's (MN),Cardinals,,SMMN,Saint Mary's (MN) Cardinals,000000,
+675,Misericordia,Cougars,,MISC,Misericordia Cougars,,
+676,Rockford,Regents,,ROCKF,Rockford Regents,5a3f99,c4c6c8
+677,Saint Joseph's Long Island,Golden Eagles,,SJLI,Saint Joseph's Long Island Golden Eagles,,
+678,Central State (OH),Marauders,,CSO,Central State (OH) Marauders,000000,
+679,Capital,Crusaders,,CAPITAL,Capital Crusaders,000000,
+680,Haskell,Jayhawks,,HASKELL,Haskell Jayhawks,000000,
+681,Trinity Christian (IL),Trolls,,TRII,Trinity Christian (IL) Trolls,000000,
+682,Gallaudet,Bison,,GALLAUDET,Gallaudet Bison,000000,
+683,Southern Virginia,Knights,,SVA,Southern Virginia Knights,000000,
+684,Auburn-Montgomery,Senators,,AUBMONT,Auburn-Montgomery Senators,,
+685,Calvary,Warriors,,CAL,Calvary Warriors,,
+686,Spring Hill,Badgers,,SPRHILL,Spring Hill Badgers,000000,
+687,Embry-Riddle (AZ),Eagles,,EMB,Embry-Riddle (AZ) Eagles,,
+688,East-West University,Phantoms,,EAS,East-West University Phantoms,,
+689,Randolph-Macon,Yellow Jackets,,RAN,Randolph-Macon Yellow Jackets,fcdf12,000000
+690,Mount Aloysius,Mounties,,MOU,Mount Aloysius Mounties,,
+691,Southern Wesleyan,Warriors,,SOWESL,Southern Wesleyan Warriors,,
+692,John Melvin,Millers,,JOH,John Melvin Millers,,
+693,Fisher College,Eagles,,FISHE,Fisher College Eagles,,
+694,Mitchell College,Mariners,,MITC,Mitchell College Mariners,,
+695,Saint Elizabeth,Eagles,,SEL,Saint Elizabeth Eagles,,
+696,Endicott College,Gulls,,END,Endicott College Gulls,,
+697,Mansfield,Mountaineers,,MANSFIELD,Mansfield Mountaineers,000000,
+698,Stanislaus State,Warriors,,STNSLS,Stanislaus State Warriors,000000,
+699,Johnson University (TN),Royals,,JHSN,Johnson University (TN) Royals,,
+700,Edward Waters,Tigers,,EDW,Edward Waters Tigers,000000,
+701,Texas Wesleyan,Rams,,TXWESL,Texas Wesleyan Rams,000000,
+702,Monmouth (IL),Fighting Scots,,MONMIL,Monmouth (IL) Fighting Scots,000000,
+703,Minnesota Crookston,Golden Eagles,,MIN,Minnesota Crookston Golden Eagles,000000,
+704,Vermont State - Randolph,Knights,,VER,Vermont State - Randolph Knights,,
+705,Puerto Rico-Mayaguez,Bulldogs,,PRMAYA,Puerto Rico-Mayaguez Bulldogs,000000,
+706,Lane College,Dragons,,LANE,Lane College Dragons,,
+707,Kentucky State,Thorobreds,,KYSTATE,Kentucky State Thorobreds,000000,
+708,Ferrum,Panthers,,FER,Ferrum Panthers,000000,c0a656
+709,Springfield,Pride,,SPR,Springfield Pride,000000,
+710,Puerto Rico-Bayamon,Pirates,,PUERT,Puerto Rico-Bayamon Pirates,,
+711,St. Ambrose,Fighting Bees,,STA,St. Ambrose Fighting Bees,000000,
+712,Rosemont,Ravens,,ROS,Rosemont Ravens,,
+713,Puerto Rico-Rio Piedras,Gallitos,,PRRP,Puerto Rico-Rio Piedras Gallitos,,
+714,Florida Tech,Panthers,,FIT,Florida Tech Panthers,000000,
+715,Rogers State,Hillcats,,ROGER,Rogers State Hillcats,,
+716,Justice College,Lions,,JUS,Justice College Lions,,
+717,Midway University,Eagles,,MID,Midway University Eagles,,
+718,SUNY-Maritime,Privateers,,SUNYMAR,SUNY-Maritime Privateers,000000,
+719,Texas Lutheran,Bulldogs,,TL,Texas Lutheran Bulldogs,fdbe10,000000
+720,Northern New Mexico,Eagles,,NNMC,Northern New Mexico Eagles,,
+721,Hawai'i Pacific,Sea Warriors,,HAWAIIPAC,Hawai'i Pacific Sea Warriors,,
+722,Texas A&M-Kingsville,Javelinas,,TXA,Texas A&M-Kingsville Javelinas,000000,
+723,Dalton State,Roadrunners,,DALTO,Dalton State Roadrunners,,
+724,Nazareth College,Golden Flyers,,NAZ,Nazareth College Golden Flyers,,
+725,Averett,Cougars,,AVE,Averett Cougars,012853,fdbb30
+726,Plattsburgh St,Cardinals,,PLATT,Plattsburgh St Cardinals,,
+727,MARIAN,Sabres,,MAR,MARIAN Sabres,,
+728,Judson University,Eagles,,JUD,Judson University Eagles,,
+729,Central Penn,Knights,,CENTR,Central Penn Knights,,
+730,Elizabeth City State,Vikings,,ELI,Elizabeth City State Vikings,000000,
+731,Bethany (WV),Bison,,BETHWV,Bethany (WV) Bison,000000,
+732,Our Lady Of The Lake,Saints,,LADY,Our Lady Of The Lake Saints,,
+733,Regent,Royals,,REG,Regent Royals,,
+734,Purdue Northwest,Pride,,PNW,Purdue Northwest Pride,000000,
+735,Maine-Augusta,Moose,,MAI,Maine-Augusta Moose,,
+736,Benedictine University (IL),Eagles,,BENILL,Benedictine University (IL) Eagles,,
+737,Pittsburgh-Bradford,Panthers,,PB,Pittsburgh-Bradford Panthers,,
+738,York (NY),Cardinals,,YKNY,York (NY) Cardinals,,
+739,Livingstone,Blue Bears,,LIVCOL,Livingstone Blue Bears,000000,
+740,Penn State-Shenango,Nittany Lions,,PEN,Penn State-Shenango Nittany Lions,,
+741,Brevard,Tornados,,BRE,Brevard Tornados,000000,
+742,Arlington Baptist,Patriots,,ARLIN,Arlington Baptist Patriots,,
+743,Aquinas,Saints,,AQU,Aquinas Saints,,
+744,Warner University,Royals,,WARNE,Warner University Royals,000000,
+745,Calumet College,Crimson Wave,,CALU,Calumet College Crimson Wave,,
+746,Campbellsville-Harrodsburg,Pioneers,,CBHD,Campbellsville-Harrodsburg Pioneers,,
+747,Trinity (FL),Tigers,,TRINI,Trinity (FL) Tigers,,
+748,Lehman College,Bridges,,LEH,Lehman College Bridges,,
+749,Merchant Marine Academy,Mariners,,MERCHMAR,Merchant Marine Academy Mariners,000000,
+750,SUNY-Brockport,Golden Eagles,,SNYB,SUNY-Brockport Golden Eagles,000000,
+751,Montreat,Cavaliers,,MONTR,Montreat Cavaliers,000000,
+752,Thomas (ME),Terriers,,THOMA,Thomas (ME) Terriers,,
+753,Sarah Lawrence,Gryphons,,SRLW,Sarah Lawrence Gryphons,,
+754,Lincoln University (CA),Oaklanders,,LINCOLNCA,Lincoln University (CA) Oaklanders,,
+755,Lindsey Wilson College,Blue Raiders,,LIN,Lindsey Wilson College Blue Raiders,000000,
+756,Cairn University,Highlanders,,CAIRN,Cairn University Highlanders,,
+757,Chestnut Hill College,Griffins,,CHE,Chestnut Hill College Griffins,,
+758,Harris-Stowe State,Hornets,,HARRI,Harris-Stowe State Hornets,,
+759,Apprentice School,Builders,,APPRE,Apprentice School Builders,000000,
+760,Holy Family University,Tigers,,HFM,Holy Family University Tigers,,
+761,Penn State-Altoona,Nittany Lions,,PSAL,Penn State-Altoona Nittany Lions,,
+762,Ouachita Baptist,Tigers,,OUA,Ouachita Baptist Tigers,000000,
+763,Colorado-Colorado Springs,Mountain Lions,,COLOCS,Colorado-Colorado Springs Mountain Lions,000000,
+764,Montana Tech,Orediggers,,MTTECH,Montana Tech Orediggers,000000,
+765,Columbia College (SC),Fighting Koalas,,CLSC,Columbia College (SC) Fighting Koalas,,
+766,Cumberland (KY),Patriots,,CUMB,Cumberland (KY) Patriots,000000,
+767,Lesley University,Lynx,,LZX,Lesley University Lynx,,
+768,Wisconsin-Stout,Blue Devils,,WIST,Wisconsin-Stout Blue Devils,000000,
+769,SUNY Delhi,Broncos,,DELH,SUNY Delhi Broncos,,
+770,Bryn Athyn,Lions,,BRYN,Bryn Athyn Lions,,
+771,Middle Georgia State,Knights,,MID,Middle Georgia State Knights,,
+772,Hardin-Simmons,Cowboys,,HARDSIM,Hardin-Simmons Cowboys,5b2d83,fec52f
+773,Pacific (OR),Boxers,,PAC,Pacific (OR) Boxers,b4183a,ffffff
+774,Walla Walla,Wolves,,WLL,Walla Walla Wolves,,
+775,Shawnee State,Bears,,SHAWN,Shawnee State Bears,,
+776,Saint Mary of the Woods College,Pomeroys,,SMWC,Saint Mary of the Woods College Pomeroys,,
+777,Crown College,Polars,,CRO,Crown College Polars,5c2f92,ffffff
+778,West Virginia Wesleyan,Bobcats,,WEST,West Virginia Wesleyan Bobcats,000000,
+779,St. Thomas (TX),Celts,,STTOMTX,St. Thomas (TX) Celts,,
+780,Whittier,Poets,,WHI,Whittier Poets,4a217b,b29547
+781,Willamette,Bearcats,,WLLMTT,Willamette Bearcats,960a2c,ab9e76
+782,Michigan Tech,Huskies,,MTU,Michigan Tech Huskies,000000,
+783,Southwestern Adventist,Knights,,SOUTH,Southwestern Adventist Knights,,
+784,Tennessee Wesleyan,Bulldogs,,TNWESL,Tennessee Wesleyan Bulldogs,000000,
+785,Lincoln (MO),Blue Tigers,,LIN,Lincoln (MO) Blue Tigers,000000,
+786,Milligan,Buffaloes,,MILLI,Milligan Buffaloes,000000,
+787,Schreiner,Mountaineers,,SCHRE,Schreiner Mountaineers,000000,
+788,Franciscan University,Barons,,FRA,Franciscan University Barons,,
+789,Chadron State,Eagles,,CHADRONST,Chadron State Eagles,000000,
+790,South Dakota Mines,Hardrockers,,SDMT,South Dakota Mines Hardrockers,,
+791,Brewton-Parker,Wildcats,,BREWT,Brewton-Parker Wildcats,,
+792,Immaculata,Mighty Macs,,IMM,Immaculata Mighty Macs,,
+793,Penn State-Fayette,Nittany Lions,,PEN,Penn State-Fayette Nittany Lions,,
+794,Kentucky Wesleyan,Panthers,,KYWESL,Kentucky Wesleyan Panthers,000000,
+795,Rust,Bearcats,,RUST ,Rust Bearcats,,
+796,UVA Wise,Cavaliers,,VIRWISE,UVA Wise Cavaliers,e30000,000000
+797,Fort Lauderdale,Eagles,,UFTL,Fort Lauderdale Eagles,,
+798,North Central College,Cardinals,,NOCENTCOL,North Central College Cardinals,000000,
+799,Penn State Scranton,Nittany Lions,,PSSC,Penn State Scranton Nittany Lions,,
+800,Spartanburg Methodist,Pioneers,,SPA,Spartanburg Methodist Pioneers,,
+801,Blackburn,Beavers,,BLACKBURN,Blackburn Beavers,000000,
+802,Webber International,Warriors,,WEBBINT,Webber International Warriors,bf2f38,909090
+803,Virginia Wesleyan,Blue Marlins,,VAWESL,Virginia Wesleyan Blue Marlins,,
+804,Southwestern Christian,Eagles,,SWCHRISTU,Southwestern Christian Eagles,,
+805,University of The Southwest,Mustangs,,SOUTH,University of The Southwest Mustangs,,
+806,Westcliff,Warriors,,WES,Westcliff Warriors,,
+807,William Woods,Owls,,WWD,William Woods Owls,,
+808,Johnson & Wales (RI),Griffins,,JOHNS,Johnson & Wales (RI) Griffins,,
+809,Manhattanville,Valiants,,MANHA,Manhattanville Valiants,,
+810,Regis,Pride,,REG,Regis Pride,,
+811,Waldorf College,Warriors,,WAL,Waldorf College Warriors,000000,
+812,Neumann,Knights,,NEU,Neumann Knights,,
+813,Heidelberg,Student Princes,,HEI,Heidelberg Student Princes,000000,
+814,Asbury,Eagles,,ASBUR,Asbury Eagles,000000,
+815,Friends University,Falcons,,FRI,Friends University Falcons,,
+816,Elms College,Blazers,,ELM,Elms College Blazers,,
+817,Muskingum,Fighting Muskies,,MUS,Muskingum Fighting Muskies,000000,
+818,Texas A&M-Texarkana,Eagles,,TEX,Texas A&M-Texarkana Eagles,,
+819,Mobile,Rams,,MOBIL,Mobile Rams,,
+820,Fort Valley State,Wildcats,,FTVALLEY,Fort Valley State Wildcats,f9bd0a,2a307f
+821,Benedictine (AZ),Redhawks,,BMA,Benedictine (AZ) Redhawks,,
+822,Eastern Oregon,Mountaineers,,EOR,Eastern Oregon Mountaineers,000000,
+823,Anderson (IN),Ravens,,AND,Anderson (IN) Ravens,000000,
+824,Colby-Sawyer,Chargers,,COL,Colby-Sawyer Chargers,,
+825,Kean,Cougars,,KEAN,Kean Cougars,092f56,ffffff
+826,Medgar Evers,Cougars,,MDEV,Medgar Evers Cougars,,
+827,Bowdoin,Polar Bears,,BOW,Bowdoin Polar Bears,ffffff,000000
+828,Bowie State,Bulldogs,,BOWIE,Bowie State Bulldogs,000000,
+829,Morehouse,Maroon Tigers,,MOR,Morehouse Maroon Tigers,000000,
+830,Washington Adventist,Shock,,WASHADV,Washington Adventist Shock,,
+831,Spalding,Pelicans,,SPALD,Spalding Pelicans,,
+832,North American,Stallions,,NOAM,North American Stallions,,
+833,Linfield College,Wildcats,,LIN,Linfield College Wildcats,46256a,d41e47
+834,King (TN),Tornado,,KINGU,King (TN) Tornado,000000,
+835,Johnson University Florida,Suns,,FLORI,Johnson University Florida Suns,000000,
+836,Clark Atlanta,Panthers,,CLK,Clark Atlanta Panthers,000000,
+837,Malone,Pioneers,,MALONE,Malone Pioneers,000000,
+838,Washington and Lee,Generals,,UWL,Washington and Lee Generals,000399,d8d8d8
+839,Delta State,Statesmen,,DELTAST,Delta State Statesmen,00753e,000000
+840,Covenant,Fighting Scots,,COVENANT,Covenant Fighting Scots,000000,
+841,Vassar,Brewers,,VASSA,Vassar Brewers,,
+842,Carroll (MT),Fighting Saints,,CARROLLMT,Carroll (MT) Fighting Saints,000000,
+843,Millsaps,Majors,,MIL,Millsaps Majors,000000,
+844,Coast Guard,Bears,,USCGA,Coast Guard Bears,000000,
+845,Warner Pacific,Knights,,WARNE,Warner Pacific Knights,000000,
+846,Jarvis Christian,Bulldogs,,JAR,Jarvis Christian Bulldogs,000000,
+847,Lourdes University,Gray Wolves,,LOU,Lourdes University Gray Wolves,,
+848,Life University,Running Eagles,,LIFE ,Life University Running Eagles,,
+849,Southwestern Assemblies of God,Lions,,SWAOG,Southwestern Assemblies of God Lions,000000,
+850,Doane,Tigers,,DOANE,Doane Tigers,,
+851,Blue Mountain,Toppers,,BCM,Blue Mountain Toppers,,
+852,Concordia-Irvine,Eagles,,CONCOCA,Concordia-Irvine Eagles,,
+853,Fresno Pacific,Sunbirds,,FRESNOPAC,Fresno Pacific Sunbirds,,
+854,Sonoma State,Seawolves,,SON,Sonoma State Seawolves,000000,
+855,Oakland City,Mighty Oaks,,OAKCTY,Oakland City Mighty Oaks,000000,
+856,WVU Tech,Golden Bears,,WVT,WVU Tech Golden Bears,000000,
+857,Vanguard,Lions,,VANGU,Vanguard Lions,000000,
+858,UC Merced,Bobcats,,UC ME,UC Merced Bobcats,,
+859,Maine-Presque Isle,Owls,,UMPI,Maine-Presque Isle Owls,,
+860,SUNY Morrisville,Mustangs,,NYMS,SUNY Morrisville Mustangs,,
+861,Goldey-Beacom,Lightning,,GOL,Goldey-Beacom Lightning,,
+862,Penn State (Brandywine),Lions,,PEN,Penn State (Brandywine) Lions,,
+863,Curry College,Colonels,,CUR,Curry College Colonels,65448b,ffffff
+864,John Brown,Golden Eagles,,JBROWN,John Brown Golden Eagles,,
+865,Point Park,Pioneers,,POINT,Point Park Pioneers,,
+866,Molloy,Lions,,MOL,Molloy Lions,,
+867,Andrews University,Cardinals,,AND,Andrews University Cardinals,,
+868,Worcester State,Lancers,,WORST,Worcester State Lancers,004b8e,ffc629
+869,North Park,Vikings,,NOR,North Park Vikings,000000,
+870,Science & Arts (OK),Drovers,,SAOK,Science & Arts (OK) Drovers,,
+871,Wilberforce,Bulldogs,,WILBER,Wilberforce Bulldogs,,
+872,Ave Maria,Gyrenes,,AVE M,Ave Maria Gyrenes,000000,
+873,Hendrix College,Warriors,,HENDRIX,Hendrix College Warriors,,
+874,St. Mary's (MD),Seahawks,,STMARYSMD,St. Mary's (MD) Seahawks,,
+875,UT Tyler,Patriots,,UTT,UT Tyler Patriots,000000,
+876,University Of Saint Mary,University Of Saint Mary,,STMARYCOL,University Of Saint Mary,,
+877,Eastern Mennonite,Royals,,EMENNO,Eastern Mennonite Royals,,
+878,Bard College,Bard,,BARD,Bard College Bard,,
+879,Keystone,Giants,,KEYC,Keystone Giants,,
+880,Lyon,Scots,,LYON ,Lyon Scots,000000,
+881,Johnson & Wales (NC),Johnson & Wales (Nc),,JOHNS,Johnson & Wales (NC) Johnson & Wales (Nc),,
+882,Illinois Tech,Scarlet Hawks,,ILLTECH,Illinois Tech Scarlet Hawks,,
+883,Depauw,Tigers,,DEP,Depauw Tigers,000000,
+884,Berry,Vikings,,BER,Berry Vikings,,
+885,Loras,Duhawks,,LOR,Loras Duhawks,452d7d,d2b888
+886,Tiffin,Dragons,,TIF,Tiffin Dragons,000000,
+887,Southwest Minnesota State,Mustangs,,SOUTH,Southwest Minnesota State Mustangs,000000,
+888,Reinhardt,Eagles,,REIN,Reinhardt Eagles,000000,
+889,Pacific Union,Pacific Union,,PACUNION,Pacific Union,,
+890,Westfield State,Owls,,WES,Westfield State Owls,1b509e,000000
+891,Roberts Wesleyan,Redhawks,,RW,Roberts Wesleyan Redhawks,,
+892,Keiser,Seahawks,,KSR,Keiser Seahawks,,
+893,University of Saint Katherine,Saint Katherine,,STKAT,University of Saint Katherine Saint Katherine,,
+894,Rhode Island College,Anchormen,,RIC,Rhode Island College Anchormen,,
+895,Felician,Golden Falcons,,FEU,Felician Golden Falcons,,
+896,Valley City,Valley City,,VALC,Valley City,000000,
+897,Luther,Norse,,LUT,Luther Norse,015a9c,a5bbda
+898,Pacific Lutheran,Lutes,,PACLTH,Pacific Lutheran Lutes,ffc423,000000
+899,Lake Erie,Storm,,LAKEERIE,Lake Erie Storm,000000,
+900,Wilkes University,Colonels,,WILKES,Wilkes University Colonels,002856,ffcd00
+901,Aurora,Spartans,,AUR,Aurora Spartans,00549f,000000
+902,Chaminade,Silverswords,,CHAM,Chaminade Silverswords,000000,
+903,Pittsburgh - Greensburg,Bobcats,,PITTGREEN,Pittsburgh - Greensburg Bobcats,,
+904,D'Youville,Saints,,D'Y,D'Youville Saints,,
+905,Lynn,Fighting Knights,,LYNN ,Lynn Fighting Knights,,
+906,Northland,Lumberjacks,,NORTH,Northland Lumberjacks,,
+907,Westmont,Warriors,,WESTM,Westmont Warriors,,
+908,Limestone,Saints,,LIMESTONE,Limestone Saints,19468d,fff607
+909,Clarks Summit,Defenders,,CKST,Clarks Summit Defenders,,
+910,Wittenberg,Tigers,,WITTEN,Wittenberg Tigers,000000,
+911,Angelo State,Rams,,ANG,Angelo State Rams,000000,
+912,Hood College,Blazers,,HOOD,Hood College Blazers,,
+913,Navajo Tech,Skyhawks,,NAV,Navajo Tech Skyhawks,,
+914,Point Loma Nazarene,Sea Lions,,POINT,Point Loma Nazarene Sea Lions,000000,
+915,Missouri Baptist,Spartans,,MB,Missouri Baptist Spartans,,
+916,Albany St (GA),Golden Rams,,ALBGA,Albany St (GA) Golden Rams,000000,
+917,Bellevue University,Bruins,,BELLE,Bellevue University Bruins,,
+918,Warren Wilson,Owls,,WARWIL,Warren Wilson Owls,,
+919,Rocky Mountain,Bears,,RKYMTC,Rocky Mountain Bears,,
+920,Lake Superior State,Lakers,,LSS,Lake Superior State Lakers,000000,
+921,Stanton,Elks,,STANTON,Stanton Elks,,
+922,SUNY-Potsdam,Bears,,SUNY ,SUNY-Potsdam Bears,000000,
+923,Belhaven,Blazers,,BELHA,Belhaven Blazers,215732,f2a900
+924,Montana State-Northern,Lights,,MSTNORTH,Montana State-Northern Lights,000000,
+925,FDU Florham,Devils,,FDUFLOR,FDU Florham Devils,003f87,a32638
+926,Bloomsburg,Huskies,,BLMSB,Bloomsburg Huskies,000000,
+927,Coe,Kohawks,,COE,Coe Kohawks,881922,c8934a
+928,Berea,Mountaineers,,BEREA,Berea Mountaineers,000000,
+929,Bethel (IN),Pilots,,BTIN,Bethel (IN) Pilots,,
+930,LeMoyne-Owen,Magicians,,LEMOWE,LeMoyne-Owen Magicians,,
+931,George Fox,Bruins,,GFU,George Fox Bruins,002d62,c2a303
+932,Northwest Nazarene,Nw Nazarene,,NWNAZ,Northwest Nazarene Nw Nazarene,,
+933,Arkansas-Fort Smith,Lions,,ARKAN,Arkansas-Fort Smith Lions,,
+934,Ohio Dominican,Panthers,,ODM,Ohio Dominican Panthers,000000,
+935,Oak Hills Christian,Wolfpack,,OAK,Oak Hills Christian Wolfpack,,
+936,Buffalo State,Bengals,,BUF,Buffalo State Bengals,000000,
+937,Sterling College (KS),Warriors,,STCKS,Sterling College (KS) Warriors,,
+938,Portland Bible,Arrows,,PORTL,Portland Bible Arrows,,
+939,Saint Augustine's,Falcons,,STAUG,Saint Augustine's Falcons,000000,
+940,Mayville State,Comets,,MAYVILLE,Mayville State Comets,000000,
+941,Bridgewater College (VA),Eagles,,BRDVA,Bridgewater College (VA) Eagles,990022,8d724b
+942,Saginaw Valley State,Cardinals,,SAGI,Saginaw Valley State Cardinals,000000,
+943,CSU Pueblo,Thunderwolves,,CSTP,CSU Pueblo Thunderwolves,,
+944,Saint Vincent,Bearcats,,STV,Saint Vincent Bearcats,000000,
+945,Montevallo,Falcons,,MNTEVAL,Montevallo Falcons,,
+946,Penn State-Alleghany,Nittany Lions,,PSGA,Penn State-Alleghany Nittany Lions,,
+947,Central Christian College,Tigers,,CEN,Central Christian College Tigers,,
+948,Adams State,Grizzlies,,ADST,Adams State Grizzlies,000000,
+949,Wiley,Wildcats,,WILEY,Wiley Wildcats,,
+950,CS Dominguez Hills,Toros,,CSDH,CS Dominguez Hills Toros,,
+951,Milwaukee School Of Engineering,Raiders,,MSOE,Milwaukee School Of Engineering Raiders,,
+952,University of Wisconsin River Falls,Falcons,,WISCO,University of Wisconsin River Falls Falcons,000000,
+953,Penn State-New Kensington,Lions,,PSNK,Penn State-New Kensington Lions,,
+954,Greensboro College,Pride,,GRNSBORO,Greensboro College Pride,000000,
+955,Delaware Valley,Aggies,,DV,Delaware Valley Aggies,004c23,e6b71b
+956,Florida Memorial,Florida Memorial,,FLAMEMRL,Florida Memorial,000000,
+957,Truman State,Bulldogs,,TRU,Truman State Bulldogs,000000,
+958,Talladega,Tornadoes,,TALLA,Talladega Tornadoes,,
+959,Southwestern Oklahoma State,Bulldogs,,SWO,Southwestern Oklahoma State Bulldogs,000000,
+960,E. New Mexico,Greyhounds,,EASTERNNM,E. New Mexico Greyhounds,000000,
+961,Northwood (MI),Timberwolves,,NAR,Northwood (MI) Timberwolves,000000,
+962,LSU Shreveport,Pilots,,LSUSHRVPT,LSU Shreveport Pilots,000000,
+963,Anderson (SC),Trojans,,ANDERSC,Anderson (SC) Trojans,000000,
+964,Arcadia,Arcadia,,ARCAD,Arcadia,,
+965,Coker,Cobras,,COKER,Coker Cobras,000000,
+966,Antelope Valley,Antelope Valley,,ANTEL,Antelope Valley,,
+967,Trevecca Nazarene,Trojans,,TREVNAZ,Trevecca Nazarene Trojans,,
+968,Mount Saint Vincent,Mount Saint Vincent,,COLLE,Mount Saint Vincent,,
+969,St. Xavier  (IL),Cougars,,STX,St. Xavier  (IL) Cougars,000000,
+970,Queens College NY,Knights,,QUEEN,Queens College NY Knights,,
+971,Wells College,Express,,WELLS,Wells College Express,,
+972,Indiana University Northwest,Indiana-Northwest,,INDIA,Indiana University Northwest Indiana-Northwest,,
+973,Lebanon Valley,Flying Dutchmen,,LEB,Lebanon Valley Flying Dutchmen,003767,ffffff
+974,Wilmington (DE),Wildcats,,WILMDE,Wilmington (DE) Wildcats,,
+975,Guilford,Quakers,,GUILFORD,Guilford Quakers,910028,dcddde
+976,Notre Dame College (OH),Blue Falcons,,NDOH,Notre Dame College (OH) Blue Falcons,000000,
+977,Virginia St,Trojans,,VIRST,Virginia St Trojans,000000,
+978,Emory & Henry,Wasps,,EMHEN,Emory & Henry Wasps,1e376d,daad27
+979,Miami (OH)-Middletown,ThunderHawks,,MIAMID,Miami (OH)-Middletown ThunderHawks,,
+980,Cazenovia College,Wildcats,,CAZEN,Cazenovia College Wildcats,,
+981,Brandeis,Judges,,BRA,Brandeis Judges,,
+982,Wayne State (MI),Warriors,,WAY,Wayne State (MI) Warriors,000000,
+983,Clayton State,Lakers,,CLAY,Clayton State Lakers,,
+984,Southern Nazarene,Crimson Storm,,STN,Southern Nazarene Crimson Storm,000000,
+985,Illinois-Springfield,Prairie Stars,,ILLSPR,Illinois-Springfield Prairie Stars,000000,
+986,St. Thomas (TX),Celts,,STT,St. Thomas (TX) Celts,,
+987,Harding,Bisons,,HARDING,Harding Bisons,000000,
+988,UW-Parkside,Rangers,,WISCOPARK,UW-Parkside Rangers,,
+989,Wartburg,Knights,,WAR,Wartburg Knights,f5822b,000000
+990,Shorter,Hawks,,SHOR,Shorter Hawks,000000,
+991,San Diego Christian,Hawks,,SDCHR,San Diego Christian Hawks,,
+992,Rochester University (MI),Warriors,,ROMI,Rochester University (MI) Warriors,000000,
+993,Missouri S&T,Miners,,MS&T,Missouri S&T Miners,000000,
+994,Puget Sound,Loggers,,PUGET,Puget Sound Loggers,680001,ffffff
+995,Clinton College,Golden Bears,,CLI,Clinton College Golden Bears,,
+996,Clark (MA),Cougars,,CLARK,Clark (MA) Cougars,000000,
+997,Allen University,Yellow Jackets,,ALN,Allen University Yellow Jackets,000000,
+998,Methodist,Monarchs,,MTH,Methodist Monarchs,000000,
+999,Cincinnati Clermont,Cougars,,CNCL,Cincinnati Clermont Cougars,,
+1000,College of New Jersey,Lions,,CNJ,College of New Jersey Lions,154c7d,fbbc20
+1001,Dakota State,Trojans,,DAKO,Dakota State Trojans,000000,
+1002,Cardinal Stritch,Wolves,,CSTU,Cardinal Stritch Wolves,,
+1003,Massachusetts College of Liberal Arts,Mohawks,,MASSA,Massachusetts College of Liberal Arts Mohawks,,
+1004,Manchester,Spartans,,MNCHSTR,Manchester Spartans,ddac14,000000
+1005,Union (NY),Garnet Chargers,,UNNY,Union (NY) Garnet Chargers,000000,
+1006,Central Baptist College,Mustangs,,CTLBAP,Central Baptist College Mustangs,,
+1007,Huston-Tillotson,Rams,,HUSTONTIL,Huston-Tillotson Rams,000000,
+1008,St. Mary's (TX),Rattlers,,ST. M,St. Mary's (TX) Rattlers,,
+1009,Grace Christian,Tigers,,GRACE,Grace Christian Tigers,,
+1010,Lees-McRae,Bobcats,,LEESMCRAE,Lees-McRae Bobcats,000000,
+1011,McDaniel,Green Terror,,MCD,McDaniel Green Terror,,
+1012,Indianapolis,Greyhounds,,INDY,Indianapolis Greyhounds,000000,
+1013,Bushnell,Beacons,,BUSHNELL,Bushnell Beacons,,
+1014,Albertus Magnus,Falcons,,ALBERTUS,Albertus Magnus Falcons,,
+1015,Ithaca College,Bombers,,ITH,Ithaca College Bombers,000000,
+1016,Carver College,Cougars,,CBC,Carver College Cougars,,
+1017,Indiana-South Bend,Titans,,INSBEND,Indiana-South Bend Titans,000000,
+1018,Oklahoma Baptist,Bison,,OB,Oklahoma Baptist Bison,,
+1019,Old Westbury,Panthers,,OWB,Old Westbury Panthers,000000,
+1020,Tennessee Southern,Firehawks,,UTSOU,Tennessee Southern Firehawks,,
+1021,Western New England,Golden Bears,,WNWENG,Western New England Golden Bears,,
+1022,Ottawa (AZ),Spirit,,OUAZ,Ottawa (AZ) Spirit,,
+1023,Eastern Nazarene,Lions,,ENAZARENE,Eastern Nazarene Lions,,
+1024,Mars Hill,Mountain Lions,,MARSHILL,Mars Hill Mountain Lions,004b8d,efc814
+1025,Multnomah University,Lions,,MULT,Multnomah University Lions,,
+1026,Paine,Lions,,PC,Paine Lions,,
+1027,Alma,Scots,,ALM,Alma Scots,000000,
+1028,Tufts,Jumbos,,TUF,Tufts Jumbos,3e8ede,c6beb6
+1029,Simon Fraser,Red Leafs,,SIMFRA,Simon Fraser Red Leafs,000000,
+1030,St. John Fisher,Cardinals,,SJFISH,St. John Fisher Cardinals,000000,
+1031,Carlow,Celtics,,CLW,Carlow Celtics,,
+1032,Wabash College,Little Giants,,WAB,Wabash College Little Giants,000000,
+1033,West Coast Baptist,Eagles,,WCB,West Coast Baptist Eagles,,
+1034,Montana-Western,Bulldogs,,MTWST,Montana-Western Bulldogs,000000,
+1035,Iowa Wesleyan,Tigers,,IOW,Iowa Wesleyan Tigers,000000,
+1036,Lincoln (PA),Lions,,LINCOLNPA,Lincoln (PA) Lions,000000,
+1037,University of New England,Nor'easters,,NWENG,University of New England Nor'easters,,
+1038,Saint Martin's,Saints,,ST. M,Saint Martin's Saints,,
+1039,Peru State,Bobcats,,PER,Peru State Bobcats,,
+1040,Cal State East Bay,Pioneers,,CSEB,Cal State East Bay Pioneers,,
+1041,St. Josephs (ME),Monks,,STJOEME,St. Josephs (ME) Monks,,
+1042,Philander Smith,Panthers,,PHILA,Philander Smith Panthers,000000,
+1043,Midland University,Midland,,MIDLAND,Midland University Midland,000000,
+1044,Mary Hardin-Baylor,Crusaders,,MRYHRBAY,Mary Hardin-Baylor Crusaders,492f92,fece1c
+1045,Holy Names University,Hawks,,HOLY,Holy Names University Hawks,000000,
+1046,St. Thomas (FL),Bobcats,,STTHOM,St. Thomas (FL) Bobcats,,
+1047,Georgia College,Bobcats,,GEOCOLL,Georgia College Bobcats,,
+1048,Knox,Prairie Fire,,KNO,Knox Prairie Fire,000000,
+1049,Northwestern Ohio,Racers,,NOR,Northwestern Ohio Racers,,
+1050,Master's University,Mustangs,,MAST,Master's University Mustangs,000000,
+1051,Concord,Mountain Lions,,CONCORD,Concord Mountain Lions,000000,
+1052,Fairmont St,Falcons,,FAIRST,Fairmont St Falcons,000000,
+1053,Cal State LA,Golden Eagles,,CALSTLA,Cal State LA Golden Eagles,,
+1054,Glenville State,Pioneers,,GLENVILLE,Glenville State Pioneers,000000,
+1055,Williams Baptist,Eagles,,WILLI,Williams Baptist Eagles,,
+1056,Mount St. Joseph,Lions,,MTS,Mount St. Joseph Lions,002d5d,f5ce3e
+1057,Goucher,Gophers,,GOUCHER,Goucher Gophers,000000,
+1058,Georgia Southwestern,Hurricanes,,GEOSW,Georgia Southwestern Hurricanes,,
+1059,Florida College,Falcons,,FLACOL,Florida College Falcons,,
+1060,Centenary (NJ),Cyclones,,CENTENJ,Centenary (NJ) Cyclones,,
+1061,Academy of Art,Urban Knights,,AUA,Academy of Art Urban Knights,,
+1062,Georgetown College (KY),Tigers,,GTOWNCOLL,Georgetown College (KY) Tigers,,
+1063,Wheeling,Cardinals,,WHEEL,Wheeling Cardinals,,
+1064,Rutgers-Camden,Raptors,,RUTCAM,Rutgers-Camden Raptors,,
+1065,SUNY-New Paltz,Hawks,,SUNY ,SUNY-New Paltz Hawks,,
+1066,Salve Regina,Seahawks,,SALVE,Salve Regina Seahawks,000000,
+1067,Cumberland (TN),Bulldogs,,CUMBTN,Cumberland (TN) Bulldogs,000000,
+1068,Shenandoah,Hornets,,SHENAN,Shenandoah Hornets,000000,
+1069,Texas A&M-International,Dustdevils,,TXAMINT,Texas A&M-International Dustdevils,000000,
+1070,Hastings,Broncos,,HASTINGS,Hastings Broncos,,
+1071,Concordia Moorhead,Cobbers,,CONCOMN,Concordia Moorhead Cobbers,701d45,ffffff
+1072,Oklahoma Christian,Oklahoma Christian,,OKCHRIST,Oklahoma Christian,,
+1073,West Florida,Argonauts,,WEST ,West Florida Argonauts,087dc2,03b186
+1074,Regis (CO),Rangers,,REGIS,Regis (CO) Rangers,000000,
+1075,Hope,Flying Dutchmen,,HOP,Hope Flying Dutchmen,000000,
+1076,Ohio Valley,Fighting Scots,,OHVAL,Ohio Valley Fighting Scots,000000,
+1077,Gordon College,Fighting Scots,,GRDN,Gordon College Fighting Scots,,
+1078,Maine-Farmington,Highlanders,,MAINE,Maine-Farmington Highlanders,000000,
+1079,Culver-Stockton,Wildcats,,CULVE,Culver-Stockton Wildcats,000000,
+1080,Salisbury,Sea Gulls,,SALIS,Salisbury Sea Gulls,8b0e04,fdb913
+1081,Southeastern Baptist College,Chargers,,SEBC,Southeastern Baptist College Chargers,,
+1082,University Of The Virgin Islands,Uvi,,VIRGINISL,University Of The Virgin Islands Uvi,,
+1083,Warner University,Royals,,WAU,Warner University Royals,,
+1084,Phoenix,Firestorm,,AZCHR,Phoenix Firestorm,,
+1085,Barclay College,Bears,,BAR,Barclay College Bears,,
+1086,Hanover,Panthers,,HANOVER,Hanover Panthers,0b486d,990000
+1087,Oberlin,Yeomen,,OBERLIN,Oberlin Yeomen,000000,
+1088,NVU-Lyndon,Hornets,,NVUL,NVU-Lyndon Hornets,,
+1089,Edinboro,Fighting Scots,,EDINBORO,Edinboro Fighting Scots,000000,
+1090,Concordia-Texas,Tornados,,CONCOAUS,Concordia-Texas Tornados,,
+1091,Transylvania,Pioneers,,TRANS,Transylvania Pioneers,,
+1092,Presentation College,Saints,,PRE,Presentation College Saints,000000,
+1093,MIT,Engineers,,MIT,MIT Engineers,000000,
+1094,Central Methodist,Eagles,,CDF,Central Methodist Eagles,000000,
+1095,Eckerd,Tritons,,ECKERD,Eckerd Tritons,,
+1096,Elizabethtown,Blue Jays,,ELZ,Elizabethtown Blue Jays,,
+1097,Chowan,Hawks,,CHOWA,Chowan Hawks,000000,
+1098,Penn State-Behrend,Lions,,PSBEHR,Penn State-Behrend Lions,,
+1099,Wisconsin-Superior,Wiscsup,,WISCSUP,Wisconsin-Superior Wiscsup,,
+1100,Hartwick,Hawks,,HAR,Hartwick Hawks,000000,
+1101,Minnesota Morris,Cougars,,MNMOR,Minnesota Morris Cougars,8d191b,e19c25
+1102,Yellowstone Christian College,Centurions,,YCC,Yellowstone Christian College Centurions,,
+1103,Alliance University,Warriors,,NYACK,Alliance University Warriors,,
+1104,Webster,Gorloks,,WEBST,Webster Gorloks,,
+1105,Lenoir-Rhyne,Bears,,LENRHYNE,Lenoir-Rhyne Bears,000000,ffffff
+1106,Keuka,Storm,,KEU,Keuka Storm,,
+1107,Cal Lutheran,Kingsmen,,CALLUTH,Cal Lutheran Kingsmen,3b2361,fec223
+1108,Millersville,Marauders,,MIL,Millersville Marauders,000000,
+1109,Babson,Beavers,,BABSO,Babson Beavers,,
+1110,Roosevelt,Lakers,,ROOSE,Roosevelt Lakers,,
+1111,Palm Beach Atlantic,Sailfish,,PALM ,Palm Beach Atlantic Sailfish,000000,
+1112,Moravian,Greyhounds,,MOR,Moravian Greyhounds,1f3361,a5a6a9
+1113,Indiana-Kokomo,Cougars,,INDIA,Indiana-Kokomo Cougars,,
+1114,Keene St,Owls,,KEEN,Keene St Owls,,
+1115,Quincy,Hawks,,QUI,Quincy Hawks,000000,
+1116,Centre College,Colonels,,CENTRE,Centre College Colonels,000000,
+1117,Minnesota Duluth,Bulldogs,,UMD,Minnesota Duluth Bulldogs,000000,
+1118,Converse University,Converse University,,CONVE,Converse University,,
+1119,Redlands,Bulldogs,,RED,Redlands Bulldogs,751708,ffffff
+1120,Ashland,Eagles,,ASH,Ashland Eagles,000000,
+1121,Maryville University (MO),Maryville University (Mo),,MARYV,Maryville University (MO) Maryville University (Mo),,
+1122,Caltech,Caltech,,CALIF,Caltech,,
+1123,Texas Permian Basin,Falcons,,TXPR,Texas Permian Basin Falcons,,
+1124,Connecticut College,Camels,,CONNE,Connecticut College Camels,,
+1125,Hope International,Royals,,HOPE ,Hope International Royals,000000,
+1126,Farmingdale State,Rams,,FRMDL,Farmingdale State Rams,,
+1127,Eastern University (PA),Eagles,,EASTERNPA,Eastern University (PA) Eagles,,
+1128,Elmira,Soaring Eagles,,ELMIR,Elmira Soaring Eagles,000000,
+1129,Evangel,Crusaders,,EVA,Evangel Crusaders,,
+1130,Point,Skyhawks,,POI,Point Skyhawks,,
+1131,American International,Yellow Jackets,,AIC,American International Yellow Jackets,000000,
+1132,Baptist Bible College (MO),Patriots,,BBCM,Baptist Bible College (MO) Patriots,,
+1133,Tougaloo,Bulldogs,,TOUGA,Tougaloo Bulldogs,000000,
+1134,Michigan-Dearborn,Wolves,,MIDEAR,Michigan-Dearborn Wolves,,
+1135,Spurgeon College,Knights,,SPU,Spurgeon College Knights,,
+1136,North Georgia,Saints,,NORTH,North Georgia Saints,,
+1137,Lander,Senators,,LANDER,Lander Senators,,
+1138,Carver College,Cougars,,CARV,Carver College Cougars,,
+1139,Flagler,Saints,,FLAGL,Flagler Saints,000000,
+1140,Gannon,Golden Knights,,GAN,Gannon Golden Knights,000000,
+1141,Simpson University (CA),Red Hawks,,SIMPS,Simpson University (CA) Red Hawks,,
+1142,Columbus State,Cougars,,COLUMST,Columbus State Cougars,,
+1143,Greenville,Panthers,,GRNVIL,Greenville Panthers,f36917,000000
+1144,Trine University,Thunder,,TRI,Trine University Thunder,000000,
+1145,Trinity International,Trojans,,TRINIL,Trinity International Trojans,,
+1146,Emmanuel (MA),Lions,,EMMANMA,Emmanuel (MA) Lions,,
+1147,Belmont Abbey,Crusaders,,BELMONTAB,Belmont Abbey Crusaders,b71234,b5b6b3
+1148,Bacone,Bacone,,BACONE,Bacone,,
+1149,Washburn,Ichabods,,WAS,Washburn Ichabods,000000,
+1150,Purdue Northwest,Pride,,PNW,Purdue Northwest Pride,,
+1151,East Texas Baptist,Tigers,,ETXBAP,East Texas Baptist Tigers,002b44,e0ad13
+1152,Adrian,Bulldogs,,ADR,Adrian Bulldogs,000000,
+1153,College of Idaho,Yotes,,IDA,College of Idaho Yotes,,
+1154,Salem University,SALEM UNIVERSITY,,SALU,Salem University SALEM UNIVERSITY,,
+1155,Lewis,Flyers,,LEWIS,Lewis Flyers,000000,
+1156,Fort Hays State,Tigers,,FTHAYST,Fort Hays State Tigers,000000,
+1157,Tuskegee,Golden Tigers,,TUS,Tuskegee Golden Tigers,000000,
+1158,McKendree,Bearcats,,MAN,McKendree Bearcats,000000,
+1159,Cedarville,Yellow Jackets,,CEDAR,Cedarville Yellow Jackets,,
+1160,William Jewell,Cardinals,,WILLI,William Jewell Cardinals,000000,
+1161,Emporia St,Hornets,,EMPORIAST,Emporia St Hornets,000000,
+1162,Georgia Southwestern,Hurricanes,,GASW,Georgia Southwestern Hurricanes,,
+1163,Freed-Hardeman,Lions,,FREHAR,Freed-Hardeman Lions,000000,
+1164,Lee,Flames,,LEE U,Lee Flames,,
+1165,Olivet,Comets,,OLI,Olivet Comets,000000,
+1166,Washington Adventist,Shock,,WASHADV,Washington Adventist Shock,,
+1167,Newman University,Jets,,NEWMAN,Newman University Jets,,
+1168,Catawba,Chiefs,,CAT,Catawba Chiefs,0c233f,cb152f
+1169,Midwestern State,Mustangs,,MID,Midwestern State Mustangs,000000,
+1170,Whitworth,Pirates,,WHI,Whitworth Pirates,930036,000000
+1171,Calvin University,Knights,,CAL,Calvin University Knights,,
+1172,Wingate,Bulldogs,,WIN,Wingate Bulldogs,182441,c1b585
+1173,Benedict,Tigers,,BEN,Benedict Tigers,000000,
+1174,Cornell College (IA),Rams,,CORNELLIA,Cornell College (IA) Rams,000000,
+1175,Simpson College (IA),Storm,,SIMPS,Simpson College (IA) Storm,b20838,f0b310
+1176,Bluefield State,Big Blues,,BLUEF,Bluefield State Big Blues,,
+1177,Marymount (VA),Saints,,MARYMNTVA,Marymount (VA) Saints,,
+1178,Thiel,Tomcats,,THIEL,Thiel Tomcats,000000,
+1179,Concordia (WI),Falcons,,CONCWI,Concordia (WI) Falcons,245699,b1b3b3
+1180,Olivet Nazarene,Tigers,,ONAZ,Olivet Nazarene Tigers,,
+1181,Illinois Wesleyan,Titans,,ILLWES,Illinois Wesleyan Titans,000000,
+1182,UC Santa Cruz,Banana Slugs,,UCSCRZ,UC Santa Cruz Banana Slugs,,
+1183,Notre Dame de Namur,Argonauts,,NOTRE,Notre Dame de Namur Argonauts,,
+1184,Hiram,Terriers,,HIRAM,Hiram Terriers,000000,
+1185,Pikeville,Bears,,PIKEV,Pikeville Bears,000000,
+1186,Arkansas-Monticello,Boll Weevils,,ARKMONT,Arkansas-Monticello Boll Weevils,000000,
+1187,Chicago,Maroons,,CHI,Chicago Maroons,000000,
+1188,Hampden-Sydney,Tigers,,HAM,Hampden-Sydney Tigers,900028,a8b1b7
+1189,Gettysburg,Bullets,,GETTY,Gettysburg Bullets,000000,
+1190,Wesley,Wolverines,,WSLY,Wesley Wolverines,000000,
+1191,Ohio-Chillicothe,Hilltoppers,,OHI,Ohio-Chillicothe Hilltoppers,,
+1192,Wisconsin-Lutheran,Warriors,,WISLUTH,Wisconsin-Lutheran Warriors,006241,000000
+1193,Southwest Baptist,Bearcats,,SWB,Southwest Baptist Bearcats,000000,
+1194,New York Institute Of Technology,Yellow Jackets,,NEW,New York Institute Of Technology Yellow Jackets,,
+1195,CS San Bernardino,Cs San Bernardino,,CAL S,CS San Bernardino Cs San Bernardino,000000,
+1196,Urbana,Blue Knights,,URB,Urbana Blue Knights,000000,
+1197,Cortland,Red Dragons,,CORTLAND,Cortland Red Dragons,000000,
+1198,Arkansas Tech,Wonder Boys,,ARKTECH,Arkansas Tech Wonder Boys,000000,
+1199,Ohio Northern,Polar Bears,,OHNRTH,Ohio Northern Polar Bears,000000,
+1200,Maine Maritime,Mariners,,MEMARI,Maine Maritime Mariners,000000,
+1201,Caldwell,Cougars,,CALDW,Caldwell Cougars,000000,
+1202,Geneva,Golden Tornadoes,,GENEVA,Geneva Golden Tornadoes,000000,
+1203,East Central (OK),Tigers,,ECTLOK,East Central (OK) Tigers,000000,
+1204,Missouri-St. Louis,Rivermen,,MISSO,Missouri-St. Louis Rivermen,,
+1205,Pine Manor,Pine Manor,,PINE ,Pine Manor,,
+1206,Rio Grande,Red Storm,,RIOGRANDE,Rio Grande Red Storm,,
+1207,Carson-Newman,Eagles,,CAR,Carson-Newman Eagles,f2682a,0c233f
+1208,Nebraska-Kearney,Lopers,,NEKR,Nebraska-Kearney Lopers,000000,
+1209,Central State Oklahoma,Bronchos,,CENTOKLA,Central State Oklahoma Bronchos,000000,
+1210,Bethany (KS),Bethany (Ks),,BETHA,Bethany (KS) Bethany (Ks),000000,
+1211,Johnson & Wales (CO),Wildcats,,JW,Johnson & Wales (CO) Wildcats,000000,
+1212,Concordia-Chicago,Cougars,,CONCOIL,Concordia-Chicago Cougars,572a31,ffc72e
+1213,Tampa,Spartans,,TAMPA,Tampa Spartans,,
+1214,Widener,Pride,,WID,Widener Pride,0056ba,fdc743
+1215,Thomas (GA),Night Hawks,,THOMAS,Thomas (GA) Night Hawks,,
+1216,Nebraska Wesleyan,Prairie Wolves,,NEBWS,Nebraska Wesleyan Prairie Wolves,aa985d,000000
+1217,TBD,TBD,,TBD,TBD,,
+1218,Wilmington (OH),Fightin' Quakers,,WILMOH,Wilmington (OH) Fightin' Quakers,000000,
+1219,College Of New Rochelle,New Roch,,COLLE,College Of New Rochelle New Roch,,
+1220,Newbury College,Wolves,,NBRY,Newbury College Wolves,,
+1221,City College NY,Beavers,,CITY ,City College NY Beavers,,
+1222,Saint Leo,Monarchs,,ST. L,Saint Leo Monarchs,000000,
+1223,Bemidji State,Beavers,,BST,Bemidji State Beavers,000000,
+1224,Sewanee,Tigers,,SEWAN,Sewanee Tigers,000000,
+1225,Alaska Anchorage,Seawolves,,UAA,Alaska Anchorage Seawolves,000000,
+1226,St. Edward's,Hilltoppers,,STEDW,St. Edward's Hilltoppers,000000,
+1227,Hiwassee,Tigers,,HIWAS,Hiwassee Tigers,,
+1228,Southeastern,Fires,,SE,Southeastern Fires,,
+1229,Southeastern Oklahoma State,Savage Storm,,SEOS,Southeastern Oklahoma State Savage Storm,000000,
+1230,Buena Vista,Beavers,,BUENA,Buena Vista Beavers,feba12,001440
+1231,DeSales,Bulldogs,,DSLU,DeSales Bulldogs,,
+1232,Johnson & Wales (FL),Johnson & Wales (Fl),,JOHNSMIA,Johnson & Wales (FL) Johnson & Wales (Fl),,
+1233,Southwestern (KS),Moundbuilders,,SCKS,Southwestern (KS) Moundbuilders,,
+1234,Humboldt State,Lumberjacks,,HMBLDTST,Humboldt State Lumberjacks,,
+1235,Clarion,Golden Eagles,,CLARION,Clarion Golden Eagles,000000,
+1236,Huntingdon College (AL),Hawks,,HNTNGDN,Huntingdon College (AL) Hawks,000000,
+1237,Welch,Flames,,WELCH,Welch Flames,,
+1238,University of The Ozarks,Eagles,,OZARK,University of The Ozarks Eagles,,
+1239,Pensacola Christian College,Eagles,,PENSA,Pensacola Christian College Eagles,,
+1240,Miles,Golden Bears,,MIL,Miles Golden Bears,000000,
+1241,Dominican (IL),Stars,,DOMIL,Dominican (IL) Stars,,
+1242,West Alabama,Tigers,,WES,West Alabama Tigers,d31d33,ffffff
+1243,LIU Brooklyn,Liu Brooklyn,,,LIU Brooklyn Liu Brooklyn,,
+1244,Concordia-Nebraska,Clippers,,CONCONE,Concordia-Nebraska Clippers,,
+1245,University Park,Jaguars,,GOV,University Park Jaguars,,
+1246,Stockton,Stockton,,STOCKTON,Stockton,,
+1247,St. Joseph's (NY),Bears,,SJNY,St. Joseph's (NY) Bears,,
+1248,Winston-Salem,Rams,,WSSTU,Winston-Salem Rams,bb0100,
+1249,Western State Colorado University,Mountaineers,,WCK,Western State Colorado University Mountaineers,000000,
+1250,Albion,Britons,,ALBI,Albion Britons,000000,
+1251,Fontbonne,Griffins,,FONTB,Fontbonne Griffins,,
+1252,CSU San Marcos,Cougars,,CSSMAR,CSU San Marcos Cougars,,
+1253,Central Washington,Wildcats,,CENTWASH,Central Washington Wildcats,000000,
+1254,Maine-Machias,Clippers,,MM,Maine-Machias Clippers,,
+1255,Wilson College,Wico,,WILSO,Wilson College Wico,,
+1256,Findlay,Oilers,,FINDLAY,Findlay Oilers,000000,
+1257,Fayetteville St,Broncos,,FAYVLST,Fayetteville St Broncos,000000,
+1258,Carnegie Mellon,Tartans,,CARNGMELL,Carnegie Mellon Tartans,000000,
+1259,McGill,Martlets,,MCGIL,McGill Martlets,,
+1260,Skidmore,Thoroughbreds,,SKIDM,Skidmore Thoroughbreds,000000,
+1261,Spring Arbor,Cougars,,SA,Spring Arbor Cougars,,
+1262,Wheelock College,Wheelock,,WHEELOCK,Wheelock College Wheelock,,
+1263,Emory,Eagles,,EMORY,Emory Eagles,000000,
+1264,Wisconsin-Lacrosse,Eagles,,WISLAC,Wisconsin-Lacrosse Eagles,000000,
+1265,University of Mary,Marauders,,MARY,University of Mary Marauders,000000,
+1266,Wentworth Institute Of Technology,Wentworth,,WENTW,Wentworth Institute Of Technology Wentworth,,
+1267,Embry-Riddle (AZ),Eagles,,ERAZ,Embry-Riddle (AZ) Eagles,,
+1268,Rockhurst,Hawks,,ROCKH,Rockhurst Hawks,000000,
+1269,Silver Lake,Silverlake,,SILVERLK,Silver Lake Silverlake,,
+1270,Oregon Tech,Hustlin' Owls,,ORTECH,Oregon Tech Hustlin' Owls,,
+1271,Staten Island,Dolphins,,STATENISL,Staten Island Dolphins,,
+1272,York College Pa,Spartans,,YRK,York College Pa Spartans,,
+1273,Augustana (IL),Vikings,,AUGIL,Augustana (IL) Vikings,000000,
+1274,Concordia College (AL),Clippers,,CON,Concordia College (AL) Clippers,,
+1275,Black Hills State,Yellow Jackets,,BHST,Black Hills State Yellow Jackets,000000,
+1276,Wheaton (MA),Wheaton (Ma),,WHEATMA,Wheaton (MA) Wheaton (Ma),,
+1277,Henderson State,Reddies,,HENDERSON,Henderson State Reddies,000000,
+1278,Panhandle St (OK),PANHANDLE ST,,PAN,Panhandle St (OK) PANHANDLE ST,000000,
+1279,Catholic,Cardinals,,CATH,Catholic Cardinals,000000,
+1280,Susquehanna,River Hawks,,SUS,Susquehanna River Hawks,6b1a31,fd6b0d
+1281,CS Monterey Bay,Otters,,CSMBAY,CS Monterey Bay Otters,000000,
+1282,Great Falls,Argonauts,,PROVMT,Great Falls Argonauts,000000,
+1283,Colorado Mesa,Mavericks,,MESA,Colorado Mesa Mavericks,000000,
+1284,Lawrence Tech,Blue Devils,,LTC,Lawrence Tech Blue Devils,,
+1285,Lincoln Christian,Bulldogs,,LICH,Lincoln Christian Bulldogs,,
+1286,Nebraska Christian,Sentinels,,NEB,Nebraska Christian Sentinels,,
+1287,Rowan,Profs,,ROWAN,Rowan Profs,571b04,ffcf06
+1288,McPherson,Mcpherson,,MCPHE,McPherson Mcpherson,000000,
+1289,Marygrove,Mustangs,,MAR,Marygrove Mustangs,000000,
+1290,Claflin,Panthers,,CLAFLIN,Claflin Panthers,,
+1291,Pomona Pitzer,Sagehens,,POM,Pomona Pitzer Sagehens,00549a,f7941e
+1292,Kenyon,Lords,,KEN,Kenyon Lords,000000,
+1293,Concordia Oregon,Cavaliers,,CCO,Concordia Oregon Cavaliers,,
+1294,Wayne State (NE),Wildcats,,WAY,Wayne State (NE) Wildcats,000000,
+1295,Fort Lewis,Skyhawks,,FTLW,Fort Lewis Skyhawks,000000,
+1296,Selma,Bulldogs,,SELMA,Selma Bulldogs,,
+1297,Madonna,Madonna,,MADON,Madonna,,
+1298,Medaille College,Mavericks,,MED,Medaille College Mavericks,,
+1299,Ferris State,Bulldogs,,FRST,Ferris State Bulldogs,000000,
+1300,Messiah,Falcons,,MESS,Messiah Falcons,,
+1301,St. Josephs (IND),Pumas,,STJ,St. Josephs (IND) Pumas,000000,
+1302,Missouri Western,Griffons,,MOW,Missouri Western Griffons,000000,
+1303,Austin,'Roos,,AUS,Austin 'Roos,000000,
+1304,New Hope Christian College,Newhope,,NEW H,New Hope Christian College Newhope,,
+1305,Daniel Webster College,Fighting Scots,,DANIE,Daniel Webster College Fighting Scots,,
+1306,Cabrini,Cavaliers,,CABRI,Cabrini Cavaliers,,
+1307,Grace,Lancers,,GRACE,Grace Lancers,,
+1308,Marian (IN),Knights,,MAR,Marian (IN) Knights,000000,
+1309,Ottawa (KS),Ottawa (Ks),,OTTAW,Ottawa (KS) Ottawa (Ks),000000,
+1310,Northern Michigan,Wildcats,,NMI,Northern Michigan Wildcats,000000,
+1311,Rutgers-Newark,Rutgers-Newark,,RUTNEW,Rutgers-Newark,,
+1312,Seton Hill,Griffins,,SETONHILL,Seton Hill Griffins,,
+1313,Cincinnati Christian,Eagles,,CNCU,Cincinnati Christian Eagles,000000,
+1314,Bristol,Bristol,,BRIS,Bristol,,
+1315,BYU-Hawaii,Seasiders,,BYUHI,BYU-Hawaii Seasiders,,
+1316,La Roche,Redhawks,,LAROC,La Roche Redhawks,,
+1317,Roanoke,Maroons,,ROANO,Roanoke Maroons,,
+1318,Grace Bible College,Tigers,,GBC,Grace Bible College Tigers,,
+1319,Embry-Riddle (FL),Eagles,,EMBRY,Embry-Riddle (FL) Eagles,,
+1320,Penn State (Harrisburg),Penn State (Harrisburg),,PSUHAR,Penn State (Harrisburg),,
+1321,South Dakota St School Of Mines,Hardrockers,,SDSTMINES,South Dakota St School Of Mines Hardrockers,000000,
+1322,Thomas More,Saints,,THMORE,Thomas More Saints,000000,
+1323,Denison,Big Red,,DENISON,Denison Big Red,000000,
+1324,Biola,Eagles,,BIO,Biola Eagles,,
+1325,Utica,Pioneers,,UTICA,Utica Pioneers,000000,
+1326,Mary Washington,Eagles,,MARY ,Mary Washington Eagles,,
+1327,Ursinus,Bears,,URS,Ursinus Bears,98012e,fcb034
+1328,Missouri Valley,Vikings,,MISSO,Missouri Valley Vikings,,
+1329,Francis Marion,Patriots,,FRANC,Francis Marion Patriots,,
+1330,Purdue North Central,Pride,,PURDU,Purdue North Central Pride,,
+1331,Ryerson,Bold,,RYE,Ryerson Bold,,
+1332,St. Catharine (KY),Wildcats,,ST. C,St. Catharine (KY) Wildcats,,
+1333,Tennessee Temple,Crusaders,,TNTEMP,Tennessee Temple Crusaders,000000,
+1334,Pace,Setters,,PAC,Pace Setters,000000,
+1335,Barber Scotia,Barber Scotia,,BARBE,Barber Scotia,,
+1336,Hillsdale,Chargers,,HILLSDALE,Hillsdale Chargers,000000,
+1337,Nova Southeastern,Sharks,,NOVA,Nova Southeastern Sharks,,
+1338,Baptist Bible,Baptist Bible (Pa),,BAPTI,Baptist Bible Baptist Bible (Pa),,
+1339,Young Harris College,Mountain Lions,,YNGHAR,Young Harris College Mountain Lions,,
+1340,College Of Faith,Crusaders,,FAI,College Of Faith Crusaders,,
+1341,Northwestern Oklahoma State,Rangers,,NWO,Northwestern Oklahoma State Rangers,000000,
+1342,South Vermont,Mountaineers,,SV,South Vermont Mountaineers,,
+1343,Ohio Midwestern,Rams,,OHMW,Ohio Midwestern Rams,,
+1344,St. Thomas Aquinas,Spartans,,AQUIN,St. Thomas Aquinas Spartans,000000,
+1345,Nichols College,Bison,,NICHOLS,Nichols College Bison,007b5f,000000
+1346,Mount Ida,Mount Ida,,MOU,Mount Ida,000000,
+1347,Langston,Lions,,LANGSTON,Langston Lions,,
+1348,Penn State (Mont Alto),Nittany Lions,,PSMONTALTO,Penn State (Mont Alto) Nittany Lions,,
+1349,University of The Sciences,Devils,,USPHI,University of The Sciences Devils,,
+1350,Mount Vernon Nazarene (OH),MT VERNON (OH),,MVN,Mount Vernon Nazarene (OH) MT VERNON (OH),,
+1351,Stillman,Tigers,,STI,Stillman Tigers,000000,
+1352,Case Western Reserve,Spartans,,CSR,Case Western Reserve Spartans,000000,
+1353,Penn State (Beaver),Penn State (Beaver),,PENN,Penn State (Beaver),,
+1354,Lewis-Clark St,Warriors,,LWCLKST,Lewis-Clark St Warriors,000000,
+1355,Robert Morris-Springfield (IL),Eagles,,RMSP,Robert Morris-Springfield (IL) Eagles,,
+1356,Southern Arkansas,Muleriders,,SOU,Southern Arkansas Muleriders,000000,
+1357,Cameron,Aggies,,CAMERON,Cameron Aggies,000000,
+1358,Saint Rose,Golden Knights,,ST. R,Saint Rose Golden Knights,,
+1359,Alfred State,Pioneers,,ALFS,Alfred State Pioneers,,
+1360,Baker University,Baker,,BAK,Baker University Baker,000000,
+1361,Northwood University,Knights,,NORT,Northwood University Knights,,
+1362,Viterbo,V-Hawks,,VITER,Viterbo V-Hawks,,
+1363,Southern Polytechnic,Hornets,,SPS,Southern Polytechnic Hornets,,
+1364,Mid-Continent University,Mid-Continent,,MID-C,Mid-Continent University Mid-Continent,,
+1365,Suffolk,Rams,,SUFFOLK,Suffolk Rams,,
+1366,Haverford,Fords,,HAVERFORD,Haverford Fords,000000,
+1367,Alabama-Huntsville,Chargers,,AH,Alabama-Huntsville Chargers,,
+1368,Virginia Union,Panthers,,VIRGI,Virginia Union Panthers,000000,
+1369,Grinnell,Pioneers,,GRI,Grinnell Pioneers,000000,
+1370,Crossroads College,Knights,,CRO,Crossroads College Knights,,
+1371,Pacifica College,Gladiators,,PFC,Pacifica College Gladiators,,
+1372,MSU Denver,Roadrunners,,METRO,MSU Denver Roadrunners,,
+1373,Virginia Intermont,Cobras,,VAINTER,Virginia Intermont Cobras,000000,
+1374,Graceland University,Jackets,,GRC,Graceland University Jackets,000000,
+1375,Dallas Baptist,Patriots,,DBU,Dallas Baptist Patriots,000000,
+1376,The Open Bible,Open Bible,,OPEN ,The Open Bible Open Bible,,
+1377,St. Catherine (MN),Wildcats,,STCATH,St. Catherine (MN) Wildcats,,
+1378,Clearwater Christian,Cougars,,CLEAR,Clearwater Christian Cougars,,
+1379,Philadelphia,Rams,,PHILA,Philadelphia Rams,,
+1380,Wilmington University,Wildcats,,,Wilmington University Wildcats,,
+1381,Montana State-Billings,Yellowjackets,,MTSTBIL,Montana State-Billings Yellowjackets,,
+1382,Elmhurst,Blue Jays,,ELM,Elmhurst Blue Jays,000000,
+1383,Indiana Tech,Warriors,,INDIA,Indiana Tech Warriors,,
+1384,University of Rochester (NY),Yellow Jackets,,ROC,University of Rochester (NY) Yellow Jackets,000000,
+1385,Kalamazoo,Hornets,,KAL,Kalamazoo Hornets,000000,
+1386,Baruch College,Baruch,,BARUC,Baruch College Baruch,,
+1387,Slippery Rock,The Rock,,SRU,Slippery Rock The Rock,000000,
+1388,John Carroll,Blue Streaks,,JCARROL,John Carroll Blue Streaks,000000,
+1389,St Gregory's,Cavaliers,,SG,St Gregory's Cavaliers,000000,
+1390,Minot State,Beavers,,MINOT,Minot State Beavers,000000,
+1391,Whitman,Missionaries,,WHITM,Whitman Missionaries,,
+1392,Union (KY),Bulldogs,,UC,Union (KY) Bulldogs,000000,
+1393,Benedictine College (KS),Ravens,,BENC,Benedictine College (KS) Ravens,000000,
+1394,Faith Baptist Bible,Force,,FAITH,Faith Baptist Bible Force,,
+1395,Indiana University East,Indiana-East,,INDIA,Indiana University East Indiana-East,,
+1396,Dominican (CA),Penguins,,DOMIN,Dominican (CA) Penguins,,
+1397,Holy Cross,Saints,,HOL,Holy Cross Saints,,
+1398,Lubbock Christian,Chaparrals,,LUBCHR,Lubbock Christian Chaparrals,000000,
+1399,Benedictine College (KS),Ravens,,BEKS,Benedictine College (KS) Ravens,ba0c2f,ffffff
+1400,Muhlenberg,Mules,,MHLBRG,Muhlenberg Mules,000000,
+1401,Colby,White Mules,,COLBY,Colby White Mules,012778,ffffff
+1402,Northwest Missouri St,Bearcats,,NWMS,Northwest Missouri St Bearcats,000000,
+1403,Upper Iowa,Peacocks,,UPPERIOWA,Upper Iowa Peacocks,000000,
+1404,Penn St Abington,Nittany Lions,,PSALB,Penn St Abington Nittany Lions,,
+1405,Florida Southern,Moccasins,,FLASOU,Florida Southern Moccasins,,
+1406,UNC Pembroke,Braves,,NCPEMB,UNC Pembroke Braves,000000,
+1407,NYU Poly,Fighting Blue Jays,,NYP,NYU Poly Fighting Blue Jays,,
+1408,Victory University,Eagles,,VIC,Victory University Eagles,,
+1409,Philadelphia Biblical University,Highlanders,,PBU,Philadelphia Biblical University Highlanders,,
+1410,Swarthmore,Garnet,,SWART,Swarthmore Garnet,000000,
+1411,MacMurray College,Highlanders,,MAC,MacMurray College Highlanders,000000,
+1412,Marietta,Pioneers,,MAR,Marietta Pioneers,000000,
+1413,Sioux Falls,Cougars,,SIOUX,Sioux Falls Cougars,000000,
+1414,Oswego St,Lakers,,OSWEG,Oswego St Lakers,,
+1415,Albright College,Lions,,ALB,Albright College Lions,c82e48,000000
+1416,SUNY Cobleskill,Fighting Tigers,,SUNYCOB,SUNY Cobleskill Fighting Tigers,,
+1417,Briar Cliff,Chargers,,BRICLIF,Briar Cliff Chargers,,
+1418,Millikin,Big Blue,,MIL,Millikin Big Blue,000000,
+1419,Barry University,Buccaneers,,BARRY,Barry University Buccaneers,,
+1420,Bethany College (CA),Bruins,,BET,Bethany College (CA) Bruins,000000,
+1421,Southwestern College Arizona,Eagles,,SOUTH,Southwestern College Arizona Eagles,,
+1422,Dowling,Golden Lions,,DOWLI,Dowling Golden Lions,,
+1423,Johnson C Smith,Golden Bulls,,JCSMITH,Johnson C Smith Golden Bulls,000000,
+1424,Cornerstone University,Golden Eagles,,CORNE,Cornerstone University Golden Eagles,,
+1425,New York City Tech,Ny City Tech,,NEW Y,New York City Tech Ny City Tech,,
+1426,Pittsburg St,Gorillas,,PIT,Pittsburg St Gorillas,000000,
+1427,Dana,Dana,,DANA,Dana,,
+1428,Barton,Bulldogs,,BARTON,Barton Bulldogs,004684,000000
+1429,St. Olaf,Oles,,STO,St. Olaf Oles,000000,d18c29
+1430,Clarkson,Golden Knights,,CLAR,Clarkson Golden Knights,,
+1431,PennWest California,Vulcans,,PW CAL,PennWest California Vulcans,000000,
+1432,Chico State,Wildcats,,CSU,Chico State Wildcats,,
+1433,Stevenson,Mustangs,,STS,Stevenson Mustangs,005747,000000
+1434,Maryland Bible College,Eagles,,MDBCS,Maryland Bible College Eagles,,
+1435,Rollins,Tars,,ROLLI,Rollins Tars,000000,
+1436,Indiana-Pennsylvania,Crimson Hawks,,INDIANAPA,Indiana-Pennsylvania Crimson Hawks,000000,
+1437,Post University,Post,,POST,Post University Post,,
+1438,Allegheny,Gators,,ALL,Allegheny Gators,000000,
+1439,Lambuth,Eagles,,LMB,Lambuth Eagles,000000,
+1440,West Texas A&M,Buffaloes,,WTAM,West Texas A&M Buffaloes,000000,
+1441,Plymouth State,Panthers,,PLYST,Plymouth State Panthers,054e39,000000
+1442,Lock Haven University,Bald Eagles,,LHU,Lock Haven University Bald Eagles,000000,
+1443,William Penn,Statesmen,,WILLPENN,William Penn Statesmen,000000,
+1444,Concordia College (NY),Clippers,,CCD,Concordia College (NY) Clippers,000000,
+1445,Robert Morris (IL),Eagles,,RM,Robert Morris (IL) Eagles,000000,
+1446,Cascade,Thunderbirds,,CASCA,Cascade Thunderbirds,,
+1447,Hamline,Pipers,,HAM,Hamline Pipers,98012e,ffffff
+1448,St. Pauls College,Tigers,,SP,St. Pauls College Tigers,000000,
+1449,Central Missouri,Mules,,CENTMIZZ,Central Missouri Mules,000000,
+1450,South Carolina-Aiken,Pacers,,SOUTH,South Carolina-Aiken Pacers,000000,
+1451,Cal Poly Pomona,Broncos,,CALPP,Cal Poly Pomona Broncos,,
+1452,Alaska,Nanooks,,AKFB,Alaska Nanooks,000000,
+1453,Rhema Bible Training Center,Rhema,,RHEMA,Rhema Bible Training Center Rhema,000000,
+1454,Indiana-Southeast,Grenadiers,,INDIANASE,Indiana-Southeast Grenadiers,000000,
+1455,Indiana Wesleyan,Wildcats,,INWESL,Indiana Wesleyan Wildcats,000000,
+1456,Alvernia College,Crusaders,,ALV,Alvernia College Crusaders,9e053b,fdbe10
+1457,Dominican (NY),Chargers,,DOMNY,Dominican (NY) Chargers,,
+1458,Washington University (St. Louis),Bears,,WAS,Washington University (St. Louis) Bears,000000,
+1459,Southern Colorado,Indians,,SOCO,Southern Colorado Indians,000000,
+1460,Northwood (FL),Seahawks,,NWD,Northwood (FL) Seahawks,,
+1461,Savannah College Of Art And Design,Bees,,SCAD,Savannah College Of Art And Design Bees,000000,
+1462,Valdosta State,Blazers,,VAL,Valdosta State Blazers,dd1a32,000000
+1463,Southeastern College,Crusaders,,SEFL,Southeastern College Crusaders,000000,
+1464,Lincoln,Lions,,LIN,Lincoln Lions,000000,
+1465,St. Joseph (VT),Saints,,SJVT,St. Joseph (VT) Saints,000000,
+1466,Colorado School Of Mines,Orediggers,,COLOMINES,Colorado School Of Mines Orediggers,000000,
+1467,Lycoming,Warriors,,LYC,Lycoming Warriors,15283f,eaa22e
+1468,Wheaton,Thunder,,WHEATON,Wheaton Thunder,000000,
+1469,Wesley,Warriors,,WES,Wesley Warriors,,
+1470,Kings (PA),Monarchs,,KIN,Kings (PA) Monarchs,c41230,000000
+1471,Macalester,Scots,,MACALES,Macalester Scots,000000,
+1472,Mountain State University,Cougars,,MZS,Mountain State University Cougars,,
+1473,Lasell College,Lasers,,LAS,Lasell College Lasers,,
+1474,Johns Hopkins University,Blue Jays,,JHU,Johns Hopkins University Blue Jays,000000,
+1475,Washington & Jefferson,Presidents,,WAS,Washington & Jefferson Presidents,000000,
+1476,Oklahoma City,Okies,,OKLAH,Oklahoma City Okies,,
+1477,Hobart College,Statesmen,,HBRT,Hobart College Statesmen,000000,
+1478,Lake Forest,Foresters,,LAK,Lake Forest Foresters,000000,
+1479,Shippensburg,Raiders,,SHPSBRG,Shippensburg Raiders,000000,
+1480,Clark (MA),Cougars,,CLMA,Clark (MA) Cougars,000000,
+1481,Keuka College,Warriors,,KEU,Keuka College Warriors,,
+1482,Monterrey Tech,Borregos,,MON,Monterrey Tech Borregos,000000,
+1483,Grand Valley State,Lakers,,GVSU,Grand Valley State Lakers,000000,
+1484,Oklahoma Wesleyan Un,Eagles,,OW,Oklahoma Wesleyan Un Eagles,,
+1485,Mount Union (OH),Raiders,,MTU,Mount Union (OH) Raiders,000000,
+1486,Albertson College,Coyotes,,ALBT,Albertson College Coyotes,,
+1487,Huntington (IN),Foresters,,HUNT,Huntington (IN) Foresters,,
+1488,Southwestern College,Moundbuilders,,SW,Southwestern College Moundbuilders,000000,
+1489,Juniata College,Eagles,,JUN,Juniata College Eagles,031832,ac9c66
+1490,Azusa Pacific,Cougars,,AP,Azusa Pacific Cougars,000000,
+1491,Keene State,Owls,,KEEN,Keene State Owls,,
+1492,Brandeis University,Judges,,BRA,Brandeis University Judges,,
+1493,Illinois College,Blueboys,,ILLCOLL,Illinois College Blueboys,000000,
+1494,St. Francis (IN),Cougars,,SBP,St. Francis (IN) Cougars,000000,
+1495,Knoxville,Bulldogs,,KNOX,Knoxville Bulldogs,,
+1496,La Grange,Panthers,,LAG,La Grange Panthers,,
+1497,Williams,Ephs,,WIL,Williams Ephs,500082,ffbe0a
+1498,Christian Brothers,Buccaneers,,CHRIS,Christian Brothers Buccaneers,,
+1499,Morris Brown,Wolverines,,MB,Morris Brown Wolverines,,
+1500,Shepherd,Rams,,SHE,Shepherd Rams,000000,
+1501,Husson,Eagles,,HUSSON,Husson Eagles,004b44,b09a5f
+1502,Saint Michael's,Purple Knights,,STMIKEVT,Saint Michael's Purple Knights,,
+1503,Rensselaer,Engineers,,RPI,Rensselaer Engineers,000000,
+1504,Ripon,Red Hawks,,RIPON,Ripon Red Hawks,000000,
+1505,Middlebury,Panthers,,MIDLBRY,Middlebury Panthers,365a8a,ffffff
+1506,West Virginia Tech,,,WVUT,West Virginia Tech,,
+1507,New Haven,Chargers,,NHVN,New Haven Chargers,000000,
+1510,Principia College,PRINCIPIA COLLEGE,,PRI,Principia College PRINCIPIA COLLEGE,,
+1525,Northern State,Wolves,,NRTHERNST,Northern State Wolves,000000,
+1526,RIT,Tigers,,RIT,RIT Tigers,000000,ff6b00
+1528,Shaw,Bears,,SHA,Shaw Bears,000000,
+1529,Waynesburg,Yellow Jackets,,WAYNEB,Waynesburg Yellow Jackets,000000,
+1530,Bryant & Stratton,Bobcats,,BRYS,Bryant & Stratton Bobcats,,

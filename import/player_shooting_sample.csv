@@ -1,0 +1,26 @@
+﻿season,teamId,team,conference,trackedShots,assistedPct,dunks_made,dunks_attempted,dunks_pct,dunks_assistedPct,dunks_assisted,layups_made,layups_attempted,layups_pct,layups_assistedPct,layups_assisted,tipIns_made,tipIns_attempted,tipIns_pct,twoPointJumpers_made,twoPointJumpers_attempted,twoPointJumpers_pct,twoPointJumpers_assistedPct,twoPointJumpers_assisted,threePointJumpers_made,threePointJumpers_attempted,threePointJumpers_pct,threePointJumpers_assistedPct,threePointJumpers_assisted,attemptsBreakdown_threePointJumpers,attemptsBreakdown_twoPointJumpers,attemptsBreakdown_tipIns,attemptsBreakdown_layups,attemptsBreakdown_dunks,athleteId,athleteName
+2025,1,Abilene Christian,WAC,302,24.8,1,1,100,100,1,90,172,52.3,57.8,52,4,5,80,59,115,51.3,35.6,21,1,9,11.1,100,1,3,38.1,1.7,57,0.3,6045,Leonardo Bettiol
+2025,1,Abilene Christian,WAC,124,13.7,4,5,80,25,1,20,47,42.6,40,8,0,0,0,14,43,32.6,21.4,3,5,29,17.2,100,5,23.4,34.7,0,37.9,4,6046,Nasir DeGruy
+2025,1,Abilene Christian,WAC,321,21.2,17,17,100,70.6,12,60,124,48.4,53.3,32,5,6,83.3,45,120,37.5,17.8,8,18,54,33.3,88.9,16,16.8,37.4,1.9,38.6,5.3,6047,Quion Williams
+2025,1,Abilene Christian,WAC,10,30,0,0,0,0,0,4,8,50,75,3,0,0,0,0,2,0,0,0,0,0,0,0,0,0,20,0,80,0,6048,Joseph Venzant
+2025,1,Abilene Christian,WAC,245,20,0,0,0,0,0,16,34,47.1,43.8,7,1,2,50,15,41,36.6,6.7,1,52,168,31,78.8,41,68.6,16.7,0.8,13.9,0,6049,Hunter Jack Madden
+2025,1,Abilene Christian,WAC,226,22.6,1,1,100,0,0,37,66,56.1,45.9,17,5,8,62.5,48,105,45.7,33.3,16,20,46,43.5,90,18,20.4,46.5,3.5,29.2,0.4,6050,Bradyn Hubbard
+2025,1,Abilene Christian,WAC,14,42.9,0,0,0,0,0,0,2,0,0,0,1,3,33.3,6,8,75,100,6,0,1,0,0,0,7.1,57.1,21.4,14.3,0,6051,Jack Sawyer
+2025,1,Abilene Christian,WAC,28,21.4,1,1,100,100,1,9,14,64.3,44.4,4,0,0,0,5,13,38.5,20,1,0,0,0,0,0,0,46.4,0,50,3.6,6052,Ma'Shy Hill
+2025,1,Abilene Christian,WAC,89,32.6,3,3,100,100,3,11,21,52.4,63.6,7,3,6,50,20,46,43.5,85,17,2,13,15.4,100,2,14.6,51.7,6.7,23.6,3.4,6053,Cade Hornecker
+2025,1,Abilene Christian,WAC,62,25.8,0,1,0,0,0,12,29,41.4,66.7,8,0,0,0,3,12,25,0,0,8,20,40,100,8,32.3,19.4,0,46.8,1.6,6054,Christian Alston
+2025,1,Abilene Christian,WAC,143,20.3,9,11,81.8,44.4,4,41,69,59.4,41.5,17,0,1,0,5,21,23.8,20,1,8,41,19.5,87.5,7,28.7,14.7,0.7,48.3,7.7,6055,Dontrez Williams
+2025,1,Abilene Christian,WAC,99,26.3,2,3,66.7,0,0,35,64,54.7,65.7,23,1,1,100,12,30,40,25,3,0,1,0,0,0,1,30.3,1,64.6,3,6056,Rich Smith
+2025,1,Abilene Christian,WAC,82,23.2,0,0,0,0,0,4,7,57.1,50,2,0,1,0,3,11,27.3,33.3,1,20,63,31.7,80,16,76.8,13.4,1.2,8.5,0,6057,Yaniel Rivera
+2025,1,Abilene Christian,WAC,27,33.3,0,0,0,0,0,1,2,50,0,0,0,0,0,0,0,0,0,0,9,25,36,100,9,92.6,0,0,7.4,0,6058,Colby Tanner
+2025,2,Air Force,Mountain West,237,25.7,2,2,100,100,2,22,41,53.7,54.5,12,2,2,100,15,34,44.1,6.7,1,52,158,32.9,88.5,46,66.7,14.3,0.8,17.3,0.8,6815,Luke Kearney
+2025,2,Air Force,Mountain West,179,33.5,6,6,100,100,6,42,72,58.3,76.2,32,0,0,0,26,46,56.5,26.9,7,15,55,27.3,100,15,30.7,25.7,0,40.2,3.4,6816,Wesley Celichowski
+2025,2,Air Force,Mountain West,61,14.8,3,5,60,66.7,2,19,33,57.6,31.6,6,0,0,0,3,11,27.3,0,0,1,12,8.3,100,1,19.7,18,0,54.1,8.2,6817,Byron Brown
+2025,2,Air Force,Mountain West,159,30.2,0,0,0,0,0,30,52,57.7,66.7,20,0,0,0,6,23,26.1,33.3,2,27,84,32.1,96.3,26,52.8,14.5,0,32.7,0,6818,Jeffrey Mills
+2025,2,Air Force,Mountain West,368,25,4,5,80,25,1,19,43,44.2,73.7,14,0,1,0,22,68,32.4,4.5,1,95,251,37.8,80,76,68.2,18.5,0.3,11.7,1.4,6819,Ethan Taylor
+2025,2,Air Force,Mountain West,44,25,1,1,100,100,1,6,13,46.2,50,3,0,0,0,1,5,20,0,0,7,25,28,100,7,56.8,11.4,0,29.5,2.3,6820,Sam Springer
+2025,2,Air Force,Mountain West,145,33.1,6,8,75,83.3,5,52,87,59.8,71.2,37,2,4,50,16,41,39,25,4,2,5,40,100,2,3.4,28.3,2.8,60,5.5,6821,Caleb Walker
+2025,2,Air Force,Mountain West,54,16.7,1,1,100,0,0,1,4,25,0,0,0,0,0,1,8,12.5,100,1,10,41,24.4,80,8,75.9,14.8,0,7.4,1.9,6822,Beau Becker
+2025,2,Air Force,Mountain West,151,17.9,12,18,66.7,58.3,7,35,76,46.1,20,7,0,0,0,8,24,33.3,25,2,12,33,36.4,91.7,11,21.9,15.9,0,50.3,11.9,6823,Kyle Marshall
+2025,2,Air Force,Mountain West,42,26.2,0,0,0,0,0,8,9,88.9,37.5,3,0,0,0,0,0,0,0,0,8,33,24.2,100,8,78.6,0,0,21.4,0,6824,Sam Duskin
+2025,2,Air Force,Mountain West,7,0,0,0,0,0,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,3,0,0,0,42.9,0,28.6,28.6,0,6828,Josh Gatete
